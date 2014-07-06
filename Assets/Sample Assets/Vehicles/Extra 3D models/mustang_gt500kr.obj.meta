@@ -1,0 +1,1587 @@
+fileFormatVersion: 2
+guid: 2b2685b374446784aaf5a70861716bde
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Model_sketchup_d Group1 Mesh01
+    100002: Model_sketchup_d Group1 Mesh02
+    100004: Model_sketchup_d Group1 Mesh03
+    100006: Model_sketchup_d Group1 Mesh04
+    100008: Model_sketchup_d Group1 Mesh05
+    100010: Model_sketchup_d Group1 Mesh06
+    100012: Model_sketchup_d Group1 Mesh07
+    100014: Model_sketchup_d Group1 Mesh08
+    100016: Model_sketchup_d Group1 Mesh09
+    100018: Model_sketchup_d Group1 Mesh10
+    100020: Model_sketchup_d Group1 Mesh11
+    100022: Model_sketchup_d Group1 Mesh12
+    100024: Model_sketchup_d Group1 Mesh13
+    100026: Model_sketchup_d Group14 Mesh69
+    100028: Model_sketchup_d Group14 Mesh70
+    100030: Model_sketchup_d Group14 Mesh71
+    100032: Model_sketchup_d Group15 Mesh72
+    100034: Model_sketchup_d Group15 Mesh73
+    100036: Model_sketchup_d Group15 Mesh74
+    100038: Model_sketchup_d Group2 obj016_1 Mesh14
+    100040: Model_sketchup_d Group2 obj016_1 Mesh15
+    100042: Model_sketchup_d Group2 obj016_1 Mesh16
+    100044: Model_sketchup_d Group2 obj016_1 Mesh17
+    100046: Model_sketchup_d Group2 obj016_1 Mesh18
+    100048: Model_sketchup_d Group2 obj016_1 Mesh19
+    100050: Model_sketchup_d Group2 obj039_1
+    100052: Model_sketchup_d Group2 obj089_1
+    100054: Model_sketchup_d Group2 obj091_1
+    100056: Model_sketchup_d Group2 obj199_1 Mesh20
+    100058: Model_sketchup_d Group2 obj199_1 Mesh21
+    100060: Model_sketchup_d Group2 obj199_1 Mesh22
+    100062: Model_sketchup_d Group2 obj199_1 Mesh23
+    100064: Model_sketchup_d Group2 obj253_1 Mesh24
+    100066: Model_sketchup_d Group2 obj253_1 Mesh25
+    100068: Model_sketchup_d Group3 obj016_2 Mesh26
+    100070: Model_sketchup_d Group3 obj016_2 Mesh27
+    100072: Model_sketchup_d Group3 obj016_2 Mesh28
+    100074: Model_sketchup_d Group3 obj016_2 Mesh29
+    100076: Model_sketchup_d Group3 obj016_2 Mesh30
+    100078: Model_sketchup_d Group3 obj016_2 Mesh31
+    100080: Model_sketchup_d Group3 obj039_2
+    100082: Model_sketchup_d Group3 obj089_2
+    100084: Model_sketchup_d Group3 obj091_2
+    100086: Model_sketchup_d Group3 obj199_2 Mesh32
+    100088: Model_sketchup_d Group3 obj199_2 Mesh33
+    100090: Model_sketchup_d Group3 obj199_2 Mesh34
+    100092: Model_sketchup_d Group3 obj199_2 Mesh35
+    100094: Model_sketchup_d Group3 obj253_2 Mesh36
+    100096: Model_sketchup_d Group3 obj253_2 Mesh37
+    100098: Model_sketchup_d Group4 obj016_3 Mesh38
+    100100: Model_sketchup_d Group4 obj016_3 Mesh39
+    100102: Model_sketchup_d Group4 obj016_3 Mesh40
+    100104: Model_sketchup_d Group4 obj016_3 Mesh41
+    100106: Model_sketchup_d Group4 obj016_3 Mesh42
+    100108: Model_sketchup_d Group4 obj016_3 Mesh43
+    100110: Model_sketchup_d Group4 obj039_3
+    100112: Model_sketchup_d Group4 obj089_3
+    100114: Model_sketchup_d Group4 obj091_3
+    100116: Model_sketchup_d Group4 obj199_3 Mesh44
+    100118: Model_sketchup_d Group4 obj199_3 Mesh45
+    100120: Model_sketchup_d Group4 obj199_3 Mesh46
+    100122: Model_sketchup_d Group4 obj199_3 Mesh47
+    100124: Model_sketchup_d Group4 obj253_3 Mesh48
+    100126: Model_sketchup_d Group4 obj253_3 Mesh49
+    100128: Model_sketchup_d Group5 obj016_4 Mesh50
+    100130: Model_sketchup_d Group5 obj016_4 Mesh51
+    100132: Model_sketchup_d Group5 obj016_4 Mesh52
+    100134: Model_sketchup_d Group5 obj016_4 Mesh53
+    100136: Model_sketchup_d Group5 obj016_4 Mesh54
+    100138: Model_sketchup_d Group5 obj016_4 Mesh55
+    100140: Model_sketchup_d Group5 obj039_4
+    100142: Model_sketchup_d Group5 obj089_4
+    100144: Model_sketchup_d Group5 obj091_4
+    100146: Model_sketchup_d Group5 obj199_4 Mesh56
+    100148: Model_sketchup_d Group5 obj199_4 Mesh57
+    100150: Model_sketchup_d Group5 obj199_4 Mesh58
+    100152: Model_sketchup_d Group5 obj199_4 Mesh59
+    100154: Model_sketchup_d Group5 obj253_4 Mesh60
+    100156: Model_sketchup_d Group5 obj253_4 Mesh61
+    100158: Model_sketchup_d Group6 Group10
+    100160: Model_sketchup_d Group6 Group11
+    100162: Model_sketchup_d Group6 Group12
+    100164: Model_sketchup_d Group6 Group7
+    100166: Model_sketchup_d Group6 Group8
+    100168: Model_sketchup_d Group6 Group9 Mesh62
+    100170: Model_sketchup_d Group6 Group9 Mesh63
+    100172: Model_sketchup_d Group6 obj011_1_1 Group13
+    100174: Model_sketchup_d Group6 obj011_1_1 Mesh64
+    100176: Model_sketchup_d Group6 obj011_1_1 Mesh65
+    100178: Model_sketchup_d Group6 obj011_1_1 Mesh66
+    100180: Model_sketchup_d Group6 obj011_1_1 Mesh67
+    100182: Model_sketchup_d Group6 obj011_1_1 Mesh68
+    100184: Model_sketchup_d Mesh252
+    100186: Model_sketchup_d Mesh253
+    100188: Model_sketchup_d obj005_1 Group16
+    100190: Model_sketchup_d obj005_1 Group17 Mesh75
+    100192: Model_sketchup_d obj005_1 Group17 Mesh76
+    100194: Model_sketchup_d obj005_1 Group18
+    100196: Model_sketchup_d obj005_1 Group19
+    100198: Model_sketchup_d obj005_1 Group20
+    100200: Model_sketchup_d obj005_1 Group21
+    100202: Model_sketchup_d obj005_1 Mesh77
+    100204: Model_sketchup_d obj005_1 Mesh78
+    100206: Model_sketchup_d obj009_1 Mesh79
+    100208: Model_sketchup_d obj009_1 Mesh80
+    100210: Model_sketchup_d obj009_1 Mesh81
+    100212: Model_sketchup_d obj009_1 Mesh82
+    100214: Model_sketchup_d obj009_1 Mesh83
+    100216: Model_sketchup_d obj009_1 Mesh84
+    100218: Model_sketchup_d obj009_1 Mesh85
+    100220: Model_sketchup_d obj009_1 Mesh86
+    100222: Model_sketchup_d obj009_1 Mesh87
+    100224: Model_sketchup_d obj009_1 Mesh88
+    100226: Model_sketchup_d obj010_1 Mesh89
+    100228: Model_sketchup_d obj010_1 Mesh90
+    100230: Model_sketchup_d obj010_1 Mesh91
+    100232: Model_sketchup_d obj012_1 Mesh92
+    100234: Model_sketchup_d obj012_1 Mesh93
+    100236: Model_sketchup_d obj012_1 Mesh94
+    100238: Model_sketchup_d obj012_1 Mesh95
+    100240: Model_sketchup_d obj013_1
+    100242: Model_sketchup_d obj015_1
+    100244: Model_sketchup_d obj020_1 Mesh96
+    100246: Model_sketchup_d obj020_1 Mesh97
+    100248: Model_sketchup_d obj021_1 Mesh98
+    100250: Model_sketchup_d obj021_1 Mesh99
+    100252: Model_sketchup_d obj022_1 Mesh100
+    100254: Model_sketchup_d obj022_1 Mesh101
+    100256: Model_sketchup_d obj022_1 Mesh102
+    100258: Model_sketchup_d obj022_1 Mesh103
+    100260: Model_sketchup_d obj022_1 Mesh104
+    100262: Model_sketchup_d obj025_1 Mesh105
+    100264: Model_sketchup_d obj025_1 Mesh106
+    100266: Model_sketchup_d obj025_1 Mesh107
+    100268: Model_sketchup_d obj025_1 Mesh108
+    100270: Model_sketchup_d obj025_1 Mesh109
+    100272: Model_sketchup_d obj025_1 Mesh110
+    100274: Model_sketchup_d obj025_1 Mesh111
+    100276: Model_sketchup_d obj025_1 Mesh112
+    100278: Model_sketchup_d obj025_1 Mesh113
+    100280: Model_sketchup_d obj026_1 Mesh114
+    100282: Model_sketchup_d obj026_1 Mesh115
+    100284: Model_sketchup_d obj026_1 Mesh116
+    100286: Model_sketchup_d obj026_1 Mesh117
+    100288: Model_sketchup_d obj026_1 Mesh118
+    100290: Model_sketchup_d obj026_1 Mesh119
+    100292: Model_sketchup_d obj027_1 Mesh120
+    100294: Model_sketchup_d obj027_1 Mesh121
+    100296: Model_sketchup_d obj027_1 Mesh122
+    100298: Model_sketchup_d obj027_1 Mesh123
+    100300: Model_sketchup_d obj028_1
+    100302: Model_sketchup_d obj029_1 Mesh124
+    100304: Model_sketchup_d obj029_1 Mesh125
+    100306: Model_sketchup_d obj031_1 Mesh126
+    100308: Model_sketchup_d obj031_1 Mesh127
+    100310: Model_sketchup_d obj040_1 Mesh128
+    100312: Model_sketchup_d obj040_1 Mesh129
+    100314: Model_sketchup_d obj040_1 Mesh130
+    100316: Model_sketchup_d obj040_1 Mesh131
+    100318: Model_sketchup_d obj040_1 Mesh132
+    100320: Model_sketchup_d obj040_1 Mesh133
+    100322: Model_sketchup_d obj040_1 Mesh134
+    100324: Model_sketchup_d obj041_1
+    100326: Model_sketchup_d obj042_1
+    100328: Model_sketchup_d obj043_1
+    100330: Model_sketchup_d obj044_1
+    100332: Model_sketchup_d obj046_1 Mesh135
+    100334: Model_sketchup_d obj046_1 Mesh136
+    100336: Model_sketchup_d obj046_1 Mesh137
+    100338: Model_sketchup_d obj046_1 Mesh138
+    100340: Model_sketchup_d obj046_1 Mesh139
+    100342: Model_sketchup_d obj046_1 Mesh140
+    100344: Model_sketchup_d obj047_1 Mesh141
+    100346: Model_sketchup_d obj047_1 Mesh142
+    100348: Model_sketchup_d obj047_1 Mesh143
+    100350: Model_sketchup_d obj047_1 Mesh144
+    100352: Model_sketchup_d obj048_1 Mesh145
+    100354: Model_sketchup_d obj048_1 Mesh146
+    100356: Model_sketchup_d obj049_1
+    100358: Model_sketchup_d obj050_1
+    100360: Model_sketchup_d obj051_1
+    100362: Model_sketchup_d obj052_1 Mesh147
+    100364: Model_sketchup_d obj052_1 Mesh148
+    100366: Model_sketchup_d obj052_1 Mesh149
+    100368: Model_sketchup_d obj053_1
+    100370: Model_sketchup_d obj053_2
+    100372: Model_sketchup_d obj054_1 Mesh150
+    100374: Model_sketchup_d obj054_1 Mesh151
+    100376: Model_sketchup_d obj054_1 Mesh152
+    100378: Model_sketchup_d obj054_1 Mesh153
+    100380: Model_sketchup_d obj054_1 Mesh154
+    100382: Model_sketchup_d obj054_1 Mesh155
+    100384: Model_sketchup_d obj054_1 Mesh156
+    100386: Model_sketchup_d obj054_1 Mesh157
+    100388: Model_sketchup_d obj054_2 Mesh242
+    100390: Model_sketchup_d obj054_2 Mesh243
+    100392: Model_sketchup_d obj054_2 Mesh244
+    100394: Model_sketchup_d obj054_2 Mesh245
+    100396: Model_sketchup_d obj054_2 Mesh246
+    100398: Model_sketchup_d obj054_2 Mesh247
+    100400: Model_sketchup_d obj054_2 Mesh248
+    100402: Model_sketchup_d obj054_2 Mesh249
+    100404: Model_sketchup_d obj058_1
+    100406: Model_sketchup_d obj059_1 Mesh158
+    100408: Model_sketchup_d obj059_1 Mesh159
+    100410: Model_sketchup_d obj059_1 Mesh160
+    100412: Model_sketchup_d obj059_1 Mesh161
+    100414: Model_sketchup_d obj059_1 Mesh162
+    100416: Model_sketchup_d obj060_1 Mesh163
+    100418: Model_sketchup_d obj060_1 Mesh164
+    100420: Model_sketchup_d obj060_1 Mesh165
+    100422: Model_sketchup_d obj060_1 Mesh166
+    100424: Model_sketchup_d obj060_1 Mesh167
+    100426: Model_sketchup_d obj060_1 Mesh168
+    100428: Model_sketchup_d obj061_1
+    100430: Model_sketchup_d obj062_1
+    100432: Model_sketchup_d obj063_1 Mesh169
+    100434: Model_sketchup_d obj063_1 Mesh170
+    100436: Model_sketchup_d obj063_1 Mesh171
+    100438: Model_sketchup_d obj063_1 Mesh172
+    100440: Model_sketchup_d obj063_1 Mesh173
+    100442: Model_sketchup_d obj064_1 Mesh174
+    100444: Model_sketchup_d obj064_1 Mesh175
+    100446: Model_sketchup_d obj064_1 Mesh176
+    100448: Model_sketchup_d obj064_1 Mesh177
+    100450: Model_sketchup_d obj064_1 Mesh178
+    100452: Model_sketchup_d obj064_1 Mesh179
+    100454: Model_sketchup_d obj065_1
+    100456: Model_sketchup_d obj072_1 Mesh180
+    100458: Model_sketchup_d obj072_1 Mesh181
+    100460: Model_sketchup_d obj074_1 Mesh182
+    100462: Model_sketchup_d obj074_1 Mesh183
+    100464: Model_sketchup_d obj074_1 Mesh184
+    100466: Model_sketchup_d obj074_1 Mesh185
+    100468: Model_sketchup_d obj074_1 Mesh186
+    100470: Model_sketchup_d obj074_1 Mesh187
+    100472: Model_sketchup_d obj076_1 Mesh188
+    100474: Model_sketchup_d obj076_1 Mesh189
+    100476: Model_sketchup_d obj076_1 Mesh190
+    100478: Model_sketchup_d obj077_1
+    100480: Model_sketchup_d obj078_1
+    100482: Model_sketchup_d obj079_1
+    100484: Model_sketchup_d obj084_1 Mesh191
+    100486: Model_sketchup_d obj084_1 Mesh192
+    100488: Model_sketchup_d obj085_1
+    100490: Model_sketchup_d obj086_1
+    100492: Model_sketchup_d obj087_1 Mesh193
+    100494: Model_sketchup_d obj087_1 Mesh194
+    100496: Model_sketchup_d obj087_1 Mesh195
+    100498: Model_sketchup_d obj087_1 Mesh196
+    100500: Model_sketchup_d obj087_1 Mesh197
+    100502: Model_sketchup_d obj087_1 Mesh198
+    100504: Model_sketchup_d obj087_1 Mesh199
+    100506: Model_sketchup_d obj087_1 Mesh200
+    100508: Model_sketchup_d obj087_1 Mesh201
+    100510: Model_sketchup_d obj087_1 Mesh202
+    100512: Model_sketchup_d obj087_1 Mesh203
+    100514: Model_sketchup_d obj088_1
+    100516: Model_sketchup_d obj095_1 Mesh204
+    100518: Model_sketchup_d obj095_1 Mesh205
+    100520: Model_sketchup_d obj097_1
+    100522: Model_sketchup_d obj097_2
+    100524: Model_sketchup_d obj098_1 Mesh206
+    100526: Model_sketchup_d obj098_1 Mesh207
+    100528: Model_sketchup_d obj190_1 Mesh208
+    100530: Model_sketchup_d obj190_1 Mesh209
+    100532: Model_sketchup_d obj190_1 Mesh210
+    100534: Model_sketchup_d obj190_1 Mesh211
+    100536: Model_sketchup_d obj190_1 Mesh212
+    100538: Model_sketchup_d obj190_1 Mesh213
+    100540: Model_sketchup_d obj190_1 Mesh214
+    100542: Model_sketchup_d obj190_1 Mesh215
+    100544: Model_sketchup_d obj190_1 Mesh216
+    100546: Model_sketchup_d obj196_1
+    100548: Model_sketchup_d obj205_1
+    100550: Model_sketchup_d obj206_1 Mesh217
+    100552: Model_sketchup_d obj206_1 Mesh218
+    100554: Model_sketchup_d obj207_1
+    100556: Model_sketchup_d obj208_1 Mesh219
+    100558: Model_sketchup_d obj208_1 Mesh220
+    100560: Model_sketchup_d obj209_1 Mesh250
+    100562: Model_sketchup_d obj209_1 Mesh251
+    100564: Model_sketchup_d obj232_1 Mesh221
+    100566: Model_sketchup_d obj232_1 Mesh222
+    100568: Model_sketchup_d obj242_1 Mesh223
+    100570: Model_sketchup_d obj242_1 Mesh224
+    100572: Model_sketchup_d obj242_1 Mesh225
+    100574: Model_sketchup_d obj242_1 Mesh226
+    100576: Model_sketchup_d obj242_1 Mesh227
+    100578: Model_sketchup_d obj242_1 Mesh228
+    100580: Model_sketchup_d obj242_1 Mesh229
+    100582: Model_sketchup_d obj242_1 Mesh230
+    100584: Model_sketchup_d obj242_1 Mesh231
+    100586: Model_sketchup_d obj242_1 Mesh232
+    100588: Model_sketchup_d obj242_1 Mesh233
+    100590: Model_sketchup_d obj242_1 Mesh234
+    100592: Model_sketchup_d obj242_1 Mesh235
+    100594: Model_sketchup_d obj242_1 Mesh236
+    100596: Model_sketchup_d obj242_1 Mesh237
+    100598: Model_sketchup_d obj242_1 Mesh238
+    100600: Model_sketchup_d obj242_1 Mesh239
+    100602: Model_sketchup_d obj242_1 Mesh240
+    100604: Model_sketchup_d obj242_1 Mesh241
+    100606: Model_sketchup_d obj249_1
+    100608: //RootNode
+    100610: umgebung_Cube
+    400000: Model_sketchup_d Group1 Mesh01
+    400002: Model_sketchup_d Group1 Mesh02
+    400004: Model_sketchup_d Group1 Mesh03
+    400006: Model_sketchup_d Group1 Mesh04
+    400008: Model_sketchup_d Group1 Mesh05
+    400010: Model_sketchup_d Group1 Mesh06
+    400012: Model_sketchup_d Group1 Mesh07
+    400014: Model_sketchup_d Group1 Mesh08
+    400016: Model_sketchup_d Group1 Mesh09
+    400018: Model_sketchup_d Group1 Mesh10
+    400020: Model_sketchup_d Group1 Mesh11
+    400022: Model_sketchup_d Group1 Mesh12
+    400024: Model_sketchup_d Group1 Mesh13
+    400026: Model_sketchup_d Group14 Mesh69
+    400028: Model_sketchup_d Group14 Mesh70
+    400030: Model_sketchup_d Group14 Mesh71
+    400032: Model_sketchup_d Group15 Mesh72
+    400034: Model_sketchup_d Group15 Mesh73
+    400036: Model_sketchup_d Group15 Mesh74
+    400038: Model_sketchup_d Group2 obj016_1 Mesh14
+    400040: Model_sketchup_d Group2 obj016_1 Mesh15
+    400042: Model_sketchup_d Group2 obj016_1 Mesh16
+    400044: Model_sketchup_d Group2 obj016_1 Mesh17
+    400046: Model_sketchup_d Group2 obj016_1 Mesh18
+    400048: Model_sketchup_d Group2 obj016_1 Mesh19
+    400050: Model_sketchup_d Group2 obj039_1
+    400052: Model_sketchup_d Group2 obj089_1
+    400054: Model_sketchup_d Group2 obj091_1
+    400056: Model_sketchup_d Group2 obj199_1 Mesh20
+    400058: Model_sketchup_d Group2 obj199_1 Mesh21
+    400060: Model_sketchup_d Group2 obj199_1 Mesh22
+    400062: Model_sketchup_d Group2 obj199_1 Mesh23
+    400064: Model_sketchup_d Group2 obj253_1 Mesh24
+    400066: Model_sketchup_d Group2 obj253_1 Mesh25
+    400068: Model_sketchup_d Group3 obj016_2 Mesh26
+    400070: Model_sketchup_d Group3 obj016_2 Mesh27
+    400072: Model_sketchup_d Group3 obj016_2 Mesh28
+    400074: Model_sketchup_d Group3 obj016_2 Mesh29
+    400076: Model_sketchup_d Group3 obj016_2 Mesh30
+    400078: Model_sketchup_d Group3 obj016_2 Mesh31
+    400080: Model_sketchup_d Group3 obj039_2
+    400082: Model_sketchup_d Group3 obj089_2
+    400084: Model_sketchup_d Group3 obj091_2
+    400086: Model_sketchup_d Group3 obj199_2 Mesh32
+    400088: Model_sketchup_d Group3 obj199_2 Mesh33
+    400090: Model_sketchup_d Group3 obj199_2 Mesh34
+    400092: Model_sketchup_d Group3 obj199_2 Mesh35
+    400094: Model_sketchup_d Group3 obj253_2 Mesh36
+    400096: Model_sketchup_d Group3 obj253_2 Mesh37
+    400098: Model_sketchup_d Group4 obj016_3 Mesh38
+    400100: Model_sketchup_d Group4 obj016_3 Mesh39
+    400102: Model_sketchup_d Group4 obj016_3 Mesh40
+    400104: Model_sketchup_d Group4 obj016_3 Mesh41
+    400106: Model_sketchup_d Group4 obj016_3 Mesh42
+    400108: Model_sketchup_d Group4 obj016_3 Mesh43
+    400110: Model_sketchup_d Group4 obj039_3
+    400112: Model_sketchup_d Group4 obj089_3
+    400114: Model_sketchup_d Group4 obj091_3
+    400116: Model_sketchup_d Group4 obj199_3 Mesh44
+    400118: Model_sketchup_d Group4 obj199_3 Mesh45
+    400120: Model_sketchup_d Group4 obj199_3 Mesh46
+    400122: Model_sketchup_d Group4 obj199_3 Mesh47
+    400124: Model_sketchup_d Group4 obj253_3 Mesh48
+    400126: Model_sketchup_d Group4 obj253_3 Mesh49
+    400128: Model_sketchup_d Group5 obj016_4 Mesh50
+    400130: Model_sketchup_d Group5 obj016_4 Mesh51
+    400132: Model_sketchup_d Group5 obj016_4 Mesh52
+    400134: Model_sketchup_d Group5 obj016_4 Mesh53
+    400136: Model_sketchup_d Group5 obj016_4 Mesh54
+    400138: Model_sketchup_d Group5 obj016_4 Mesh55
+    400140: Model_sketchup_d Group5 obj039_4
+    400142: Model_sketchup_d Group5 obj089_4
+    400144: Model_sketchup_d Group5 obj091_4
+    400146: Model_sketchup_d Group5 obj199_4 Mesh56
+    400148: Model_sketchup_d Group5 obj199_4 Mesh57
+    400150: Model_sketchup_d Group5 obj199_4 Mesh58
+    400152: Model_sketchup_d Group5 obj199_4 Mesh59
+    400154: Model_sketchup_d Group5 obj253_4 Mesh60
+    400156: Model_sketchup_d Group5 obj253_4 Mesh61
+    400158: Model_sketchup_d Group6 Group10
+    400160: Model_sketchup_d Group6 Group11
+    400162: Model_sketchup_d Group6 Group12
+    400164: Model_sketchup_d Group6 Group7
+    400166: Model_sketchup_d Group6 Group8
+    400168: Model_sketchup_d Group6 Group9 Mesh62
+    400170: Model_sketchup_d Group6 Group9 Mesh63
+    400172: Model_sketchup_d Group6 obj011_1_1 Group13
+    400174: Model_sketchup_d Group6 obj011_1_1 Mesh64
+    400176: Model_sketchup_d Group6 obj011_1_1 Mesh65
+    400178: Model_sketchup_d Group6 obj011_1_1 Mesh66
+    400180: Model_sketchup_d Group6 obj011_1_1 Mesh67
+    400182: Model_sketchup_d Group6 obj011_1_1 Mesh68
+    400184: Model_sketchup_d Mesh252
+    400186: Model_sketchup_d Mesh253
+    400188: Model_sketchup_d obj005_1 Group16
+    400190: Model_sketchup_d obj005_1 Group17 Mesh75
+    400192: Model_sketchup_d obj005_1 Group17 Mesh76
+    400194: Model_sketchup_d obj005_1 Group18
+    400196: Model_sketchup_d obj005_1 Group19
+    400198: Model_sketchup_d obj005_1 Group20
+    400200: Model_sketchup_d obj005_1 Group21
+    400202: Model_sketchup_d obj005_1 Mesh77
+    400204: Model_sketchup_d obj005_1 Mesh78
+    400206: Model_sketchup_d obj009_1 Mesh79
+    400208: Model_sketchup_d obj009_1 Mesh80
+    400210: Model_sketchup_d obj009_1 Mesh81
+    400212: Model_sketchup_d obj009_1 Mesh82
+    400214: Model_sketchup_d obj009_1 Mesh83
+    400216: Model_sketchup_d obj009_1 Mesh84
+    400218: Model_sketchup_d obj009_1 Mesh85
+    400220: Model_sketchup_d obj009_1 Mesh86
+    400222: Model_sketchup_d obj009_1 Mesh87
+    400224: Model_sketchup_d obj009_1 Mesh88
+    400226: Model_sketchup_d obj010_1 Mesh89
+    400228: Model_sketchup_d obj010_1 Mesh90
+    400230: Model_sketchup_d obj010_1 Mesh91
+    400232: Model_sketchup_d obj012_1 Mesh92
+    400234: Model_sketchup_d obj012_1 Mesh93
+    400236: Model_sketchup_d obj012_1 Mesh94
+    400238: Model_sketchup_d obj012_1 Mesh95
+    400240: Model_sketchup_d obj013_1
+    400242: Model_sketchup_d obj015_1
+    400244: Model_sketchup_d obj020_1 Mesh96
+    400246: Model_sketchup_d obj020_1 Mesh97
+    400248: Model_sketchup_d obj021_1 Mesh98
+    400250: Model_sketchup_d obj021_1 Mesh99
+    400252: Model_sketchup_d obj022_1 Mesh100
+    400254: Model_sketchup_d obj022_1 Mesh101
+    400256: Model_sketchup_d obj022_1 Mesh102
+    400258: Model_sketchup_d obj022_1 Mesh103
+    400260: Model_sketchup_d obj022_1 Mesh104
+    400262: Model_sketchup_d obj025_1 Mesh105
+    400264: Model_sketchup_d obj025_1 Mesh106
+    400266: Model_sketchup_d obj025_1 Mesh107
+    400268: Model_sketchup_d obj025_1 Mesh108
+    400270: Model_sketchup_d obj025_1 Mesh109
+    400272: Model_sketchup_d obj025_1 Mesh110
+    400274: Model_sketchup_d obj025_1 Mesh111
+    400276: Model_sketchup_d obj025_1 Mesh112
+    400278: Model_sketchup_d obj025_1 Mesh113
+    400280: Model_sketchup_d obj026_1 Mesh114
+    400282: Model_sketchup_d obj026_1 Mesh115
+    400284: Model_sketchup_d obj026_1 Mesh116
+    400286: Model_sketchup_d obj026_1 Mesh117
+    400288: Model_sketchup_d obj026_1 Mesh118
+    400290: Model_sketchup_d obj026_1 Mesh119
+    400292: Model_sketchup_d obj027_1 Mesh120
+    400294: Model_sketchup_d obj027_1 Mesh121
+    400296: Model_sketchup_d obj027_1 Mesh122
+    400298: Model_sketchup_d obj027_1 Mesh123
+    400300: Model_sketchup_d obj028_1
+    400302: Model_sketchup_d obj029_1 Mesh124
+    400304: Model_sketchup_d obj029_1 Mesh125
+    400306: Model_sketchup_d obj031_1 Mesh126
+    400308: Model_sketchup_d obj031_1 Mesh127
+    400310: Model_sketchup_d obj040_1 Mesh128
+    400312: Model_sketchup_d obj040_1 Mesh129
+    400314: Model_sketchup_d obj040_1 Mesh130
+    400316: Model_sketchup_d obj040_1 Mesh131
+    400318: Model_sketchup_d obj040_1 Mesh132
+    400320: Model_sketchup_d obj040_1 Mesh133
+    400322: Model_sketchup_d obj040_1 Mesh134
+    400324: Model_sketchup_d obj041_1
+    400326: Model_sketchup_d obj042_1
+    400328: Model_sketchup_d obj043_1
+    400330: Model_sketchup_d obj044_1
+    400332: Model_sketchup_d obj046_1 Mesh135
+    400334: Model_sketchup_d obj046_1 Mesh136
+    400336: Model_sketchup_d obj046_1 Mesh137
+    400338: Model_sketchup_d obj046_1 Mesh138
+    400340: Model_sketchup_d obj046_1 Mesh139
+    400342: Model_sketchup_d obj046_1 Mesh140
+    400344: Model_sketchup_d obj047_1 Mesh141
+    400346: Model_sketchup_d obj047_1 Mesh142
+    400348: Model_sketchup_d obj047_1 Mesh143
+    400350: Model_sketchup_d obj047_1 Mesh144
+    400352: Model_sketchup_d obj048_1 Mesh145
+    400354: Model_sketchup_d obj048_1 Mesh146
+    400356: Model_sketchup_d obj049_1
+    400358: Model_sketchup_d obj050_1
+    400360: Model_sketchup_d obj051_1
+    400362: Model_sketchup_d obj052_1 Mesh147
+    400364: Model_sketchup_d obj052_1 Mesh148
+    400366: Model_sketchup_d obj052_1 Mesh149
+    400368: Model_sketchup_d obj053_1
+    400370: Model_sketchup_d obj053_2
+    400372: Model_sketchup_d obj054_1 Mesh150
+    400374: Model_sketchup_d obj054_1 Mesh151
+    400376: Model_sketchup_d obj054_1 Mesh152
+    400378: Model_sketchup_d obj054_1 Mesh153
+    400380: Model_sketchup_d obj054_1 Mesh154
+    400382: Model_sketchup_d obj054_1 Mesh155
+    400384: Model_sketchup_d obj054_1 Mesh156
+    400386: Model_sketchup_d obj054_1 Mesh157
+    400388: Model_sketchup_d obj054_2 Mesh242
+    400390: Model_sketchup_d obj054_2 Mesh243
+    400392: Model_sketchup_d obj054_2 Mesh244
+    400394: Model_sketchup_d obj054_2 Mesh245
+    400396: Model_sketchup_d obj054_2 Mesh246
+    400398: Model_sketchup_d obj054_2 Mesh247
+    400400: Model_sketchup_d obj054_2 Mesh248
+    400402: Model_sketchup_d obj054_2 Mesh249
+    400404: Model_sketchup_d obj058_1
+    400406: Model_sketchup_d obj059_1 Mesh158
+    400408: Model_sketchup_d obj059_1 Mesh159
+    400410: Model_sketchup_d obj059_1 Mesh160
+    400412: Model_sketchup_d obj059_1 Mesh161
+    400414: Model_sketchup_d obj059_1 Mesh162
+    400416: Model_sketchup_d obj060_1 Mesh163
+    400418: Model_sketchup_d obj060_1 Mesh164
+    400420: Model_sketchup_d obj060_1 Mesh165
+    400422: Model_sketchup_d obj060_1 Mesh166
+    400424: Model_sketchup_d obj060_1 Mesh167
+    400426: Model_sketchup_d obj060_1 Mesh168
+    400428: Model_sketchup_d obj061_1
+    400430: Model_sketchup_d obj062_1
+    400432: Model_sketchup_d obj063_1 Mesh169
+    400434: Model_sketchup_d obj063_1 Mesh170
+    400436: Model_sketchup_d obj063_1 Mesh171
+    400438: Model_sketchup_d obj063_1 Mesh172
+    400440: Model_sketchup_d obj063_1 Mesh173
+    400442: Model_sketchup_d obj064_1 Mesh174
+    400444: Model_sketchup_d obj064_1 Mesh175
+    400446: Model_sketchup_d obj064_1 Mesh176
+    400448: Model_sketchup_d obj064_1 Mesh177
+    400450: Model_sketchup_d obj064_1 Mesh178
+    400452: Model_sketchup_d obj064_1 Mesh179
+    400454: Model_sketchup_d obj065_1
+    400456: Model_sketchup_d obj072_1 Mesh180
+    400458: Model_sketchup_d obj072_1 Mesh181
+    400460: Model_sketchup_d obj074_1 Mesh182
+    400462: Model_sketchup_d obj074_1 Mesh183
+    400464: Model_sketchup_d obj074_1 Mesh184
+    400466: Model_sketchup_d obj074_1 Mesh185
+    400468: Model_sketchup_d obj074_1 Mesh186
+    400470: Model_sketchup_d obj074_1 Mesh187
+    400472: Model_sketchup_d obj076_1 Mesh188
+    400474: Model_sketchup_d obj076_1 Mesh189
+    400476: Model_sketchup_d obj076_1 Mesh190
+    400478: Model_sketchup_d obj077_1
+    400480: Model_sketchup_d obj078_1
+    400482: Model_sketchup_d obj079_1
+    400484: Model_sketchup_d obj084_1 Mesh191
+    400486: Model_sketchup_d obj084_1 Mesh192
+    400488: Model_sketchup_d obj085_1
+    400490: Model_sketchup_d obj086_1
+    400492: Model_sketchup_d obj087_1 Mesh193
+    400494: Model_sketchup_d obj087_1 Mesh194
+    400496: Model_sketchup_d obj087_1 Mesh195
+    400498: Model_sketchup_d obj087_1 Mesh196
+    400500: Model_sketchup_d obj087_1 Mesh197
+    400502: Model_sketchup_d obj087_1 Mesh198
+    400504: Model_sketchup_d obj087_1 Mesh199
+    400506: Model_sketchup_d obj087_1 Mesh200
+    400508: Model_sketchup_d obj087_1 Mesh201
+    400510: Model_sketchup_d obj087_1 Mesh202
+    400512: Model_sketchup_d obj087_1 Mesh203
+    400514: Model_sketchup_d obj088_1
+    400516: Model_sketchup_d obj095_1 Mesh204
+    400518: Model_sketchup_d obj095_1 Mesh205
+    400520: Model_sketchup_d obj097_1
+    400522: Model_sketchup_d obj097_2
+    400524: Model_sketchup_d obj098_1 Mesh206
+    400526: Model_sketchup_d obj098_1 Mesh207
+    400528: Model_sketchup_d obj190_1 Mesh208
+    400530: Model_sketchup_d obj190_1 Mesh209
+    400532: Model_sketchup_d obj190_1 Mesh210
+    400534: Model_sketchup_d obj190_1 Mesh211
+    400536: Model_sketchup_d obj190_1 Mesh212
+    400538: Model_sketchup_d obj190_1 Mesh213
+    400540: Model_sketchup_d obj190_1 Mesh214
+    400542: Model_sketchup_d obj190_1 Mesh215
+    400544: Model_sketchup_d obj190_1 Mesh216
+    400546: Model_sketchup_d obj196_1
+    400548: Model_sketchup_d obj205_1
+    400550: Model_sketchup_d obj206_1 Mesh217
+    400552: Model_sketchup_d obj206_1 Mesh218
+    400554: Model_sketchup_d obj207_1
+    400556: Model_sketchup_d obj208_1 Mesh219
+    400558: Model_sketchup_d obj208_1 Mesh220
+    400560: Model_sketchup_d obj209_1 Mesh250
+    400562: Model_sketchup_d obj209_1 Mesh251
+    400564: Model_sketchup_d obj232_1 Mesh221
+    400566: Model_sketchup_d obj232_1 Mesh222
+    400568: Model_sketchup_d obj242_1 Mesh223
+    400570: Model_sketchup_d obj242_1 Mesh224
+    400572: Model_sketchup_d obj242_1 Mesh225
+    400574: Model_sketchup_d obj242_1 Mesh226
+    400576: Model_sketchup_d obj242_1 Mesh227
+    400578: Model_sketchup_d obj242_1 Mesh228
+    400580: Model_sketchup_d obj242_1 Mesh229
+    400582: Model_sketchup_d obj242_1 Mesh230
+    400584: Model_sketchup_d obj242_1 Mesh231
+    400586: Model_sketchup_d obj242_1 Mesh232
+    400588: Model_sketchup_d obj242_1 Mesh233
+    400590: Model_sketchup_d obj242_1 Mesh234
+    400592: Model_sketchup_d obj242_1 Mesh235
+    400594: Model_sketchup_d obj242_1 Mesh236
+    400596: Model_sketchup_d obj242_1 Mesh237
+    400598: Model_sketchup_d obj242_1 Mesh238
+    400600: Model_sketchup_d obj242_1 Mesh239
+    400602: Model_sketchup_d obj242_1 Mesh240
+    400604: Model_sketchup_d obj242_1 Mesh241
+    400606: Model_sketchup_d obj249_1
+    400608: //RootNode
+    400610: umgebung_Cube
+    2300000: Model_sketchup_d Group1 Mesh01
+    2300002: Model_sketchup_d Group1 Mesh02
+    2300004: Model_sketchup_d Group1 Mesh03
+    2300006: Model_sketchup_d Group1 Mesh04
+    2300008: Model_sketchup_d Group1 Mesh05
+    2300010: Model_sketchup_d Group1 Mesh06
+    2300012: Model_sketchup_d Group1 Mesh07
+    2300014: Model_sketchup_d Group1 Mesh08
+    2300016: Model_sketchup_d Group1 Mesh09
+    2300018: Model_sketchup_d Group1 Mesh10
+    2300020: Model_sketchup_d Group1 Mesh11
+    2300022: Model_sketchup_d Group1 Mesh12
+    2300024: Model_sketchup_d Group1 Mesh13
+    2300026: Model_sketchup_d Group14 Mesh69
+    2300028: Model_sketchup_d Group14 Mesh70
+    2300030: Model_sketchup_d Group14 Mesh71
+    2300032: Model_sketchup_d Group15 Mesh72
+    2300034: Model_sketchup_d Group15 Mesh73
+    2300036: Model_sketchup_d Group15 Mesh74
+    2300038: Model_sketchup_d Group2 obj016_1 Mesh14
+    2300040: Model_sketchup_d Group2 obj016_1 Mesh15
+    2300042: Model_sketchup_d Group2 obj016_1 Mesh16
+    2300044: Model_sketchup_d Group2 obj016_1 Mesh17
+    2300046: Model_sketchup_d Group2 obj016_1 Mesh18
+    2300048: Model_sketchup_d Group2 obj016_1 Mesh19
+    2300050: Model_sketchup_d Group2 obj039_1
+    2300052: Model_sketchup_d Group2 obj089_1
+    2300054: Model_sketchup_d Group2 obj091_1
+    2300056: Model_sketchup_d Group2 obj199_1 Mesh20
+    2300058: Model_sketchup_d Group2 obj199_1 Mesh21
+    2300060: Model_sketchup_d Group2 obj199_1 Mesh22
+    2300062: Model_sketchup_d Group2 obj199_1 Mesh23
+    2300064: Model_sketchup_d Group2 obj253_1 Mesh24
+    2300066: Model_sketchup_d Group2 obj253_1 Mesh25
+    2300068: Model_sketchup_d Group3 obj016_2 Mesh26
+    2300070: Model_sketchup_d Group3 obj016_2 Mesh27
+    2300072: Model_sketchup_d Group3 obj016_2 Mesh28
+    2300074: Model_sketchup_d Group3 obj016_2 Mesh29
+    2300076: Model_sketchup_d Group3 obj016_2 Mesh30
+    2300078: Model_sketchup_d Group3 obj016_2 Mesh31
+    2300080: Model_sketchup_d Group3 obj039_2
+    2300082: Model_sketchup_d Group3 obj089_2
+    2300084: Model_sketchup_d Group3 obj091_2
+    2300086: Model_sketchup_d Group3 obj199_2 Mesh32
+    2300088: Model_sketchup_d Group3 obj199_2 Mesh33
+    2300090: Model_sketchup_d Group3 obj199_2 Mesh34
+    2300092: Model_sketchup_d Group3 obj199_2 Mesh35
+    2300094: Model_sketchup_d Group3 obj253_2 Mesh36
+    2300096: Model_sketchup_d Group3 obj253_2 Mesh37
+    2300098: Model_sketchup_d Group4 obj016_3 Mesh38
+    2300100: Model_sketchup_d Group4 obj016_3 Mesh39
+    2300102: Model_sketchup_d Group4 obj016_3 Mesh40
+    2300104: Model_sketchup_d Group4 obj016_3 Mesh41
+    2300106: Model_sketchup_d Group4 obj016_3 Mesh42
+    2300108: Model_sketchup_d Group4 obj016_3 Mesh43
+    2300110: Model_sketchup_d Group4 obj039_3
+    2300112: Model_sketchup_d Group4 obj089_3
+    2300114: Model_sketchup_d Group4 obj091_3
+    2300116: Model_sketchup_d Group4 obj199_3 Mesh44
+    2300118: Model_sketchup_d Group4 obj199_3 Mesh45
+    2300120: Model_sketchup_d Group4 obj199_3 Mesh46
+    2300122: Model_sketchup_d Group4 obj199_3 Mesh47
+    2300124: Model_sketchup_d Group4 obj253_3 Mesh48
+    2300126: Model_sketchup_d Group4 obj253_3 Mesh49
+    2300128: Model_sketchup_d Group5 obj016_4 Mesh50
+    2300130: Model_sketchup_d Group5 obj016_4 Mesh51
+    2300132: Model_sketchup_d Group5 obj016_4 Mesh52
+    2300134: Model_sketchup_d Group5 obj016_4 Mesh53
+    2300136: Model_sketchup_d Group5 obj016_4 Mesh54
+    2300138: Model_sketchup_d Group5 obj016_4 Mesh55
+    2300140: Model_sketchup_d Group5 obj039_4
+    2300142: Model_sketchup_d Group5 obj089_4
+    2300144: Model_sketchup_d Group5 obj091_4
+    2300146: Model_sketchup_d Group5 obj199_4 Mesh56
+    2300148: Model_sketchup_d Group5 obj199_4 Mesh57
+    2300150: Model_sketchup_d Group5 obj199_4 Mesh58
+    2300152: Model_sketchup_d Group5 obj199_4 Mesh59
+    2300154: Model_sketchup_d Group5 obj253_4 Mesh60
+    2300156: Model_sketchup_d Group5 obj253_4 Mesh61
+    2300158: Model_sketchup_d Group6 Group10
+    2300160: Model_sketchup_d Group6 Group11
+    2300162: Model_sketchup_d Group6 Group12
+    2300164: Model_sketchup_d Group6 Group7
+    2300166: Model_sketchup_d Group6 Group8
+    2300168: Model_sketchup_d Group6 Group9 Mesh62
+    2300170: Model_sketchup_d Group6 Group9 Mesh63
+    2300172: Model_sketchup_d Group6 obj011_1_1 Group13
+    2300174: Model_sketchup_d Group6 obj011_1_1 Mesh64
+    2300176: Model_sketchup_d Group6 obj011_1_1 Mesh65
+    2300178: Model_sketchup_d Group6 obj011_1_1 Mesh66
+    2300180: Model_sketchup_d Group6 obj011_1_1 Mesh67
+    2300182: Model_sketchup_d Group6 obj011_1_1 Mesh68
+    2300184: Model_sketchup_d Mesh252
+    2300186: Model_sketchup_d Mesh253
+    2300188: Model_sketchup_d obj005_1 Group16
+    2300190: Model_sketchup_d obj005_1 Group17 Mesh75
+    2300192: Model_sketchup_d obj005_1 Group17 Mesh76
+    2300194: Model_sketchup_d obj005_1 Group18
+    2300196: Model_sketchup_d obj005_1 Group19
+    2300198: Model_sketchup_d obj005_1 Group20
+    2300200: Model_sketchup_d obj005_1 Group21
+    2300202: Model_sketchup_d obj005_1 Mesh77
+    2300204: Model_sketchup_d obj005_1 Mesh78
+    2300206: Model_sketchup_d obj009_1 Mesh79
+    2300208: Model_sketchup_d obj009_1 Mesh80
+    2300210: Model_sketchup_d obj009_1 Mesh81
+    2300212: Model_sketchup_d obj009_1 Mesh82
+    2300214: Model_sketchup_d obj009_1 Mesh83
+    2300216: Model_sketchup_d obj009_1 Mesh84
+    2300218: Model_sketchup_d obj009_1 Mesh85
+    2300220: Model_sketchup_d obj009_1 Mesh86
+    2300222: Model_sketchup_d obj009_1 Mesh87
+    2300224: Model_sketchup_d obj009_1 Mesh88
+    2300226: Model_sketchup_d obj010_1 Mesh89
+    2300228: Model_sketchup_d obj010_1 Mesh90
+    2300230: Model_sketchup_d obj010_1 Mesh91
+    2300232: Model_sketchup_d obj012_1 Mesh92
+    2300234: Model_sketchup_d obj012_1 Mesh93
+    2300236: Model_sketchup_d obj012_1 Mesh94
+    2300238: Model_sketchup_d obj012_1 Mesh95
+    2300240: Model_sketchup_d obj013_1
+    2300242: Model_sketchup_d obj015_1
+    2300244: Model_sketchup_d obj020_1 Mesh96
+    2300246: Model_sketchup_d obj020_1 Mesh97
+    2300248: Model_sketchup_d obj021_1 Mesh98
+    2300250: Model_sketchup_d obj021_1 Mesh99
+    2300252: Model_sketchup_d obj022_1 Mesh100
+    2300254: Model_sketchup_d obj022_1 Mesh101
+    2300256: Model_sketchup_d obj022_1 Mesh102
+    2300258: Model_sketchup_d obj022_1 Mesh103
+    2300260: Model_sketchup_d obj022_1 Mesh104
+    2300262: Model_sketchup_d obj025_1 Mesh105
+    2300264: Model_sketchup_d obj025_1 Mesh106
+    2300266: Model_sketchup_d obj025_1 Mesh107
+    2300268: Model_sketchup_d obj025_1 Mesh108
+    2300270: Model_sketchup_d obj025_1 Mesh109
+    2300272: Model_sketchup_d obj025_1 Mesh110
+    2300274: Model_sketchup_d obj025_1 Mesh111
+    2300276: Model_sketchup_d obj025_1 Mesh112
+    2300278: Model_sketchup_d obj025_1 Mesh113
+    2300280: Model_sketchup_d obj026_1 Mesh114
+    2300282: Model_sketchup_d obj026_1 Mesh115
+    2300284: Model_sketchup_d obj026_1 Mesh116
+    2300286: Model_sketchup_d obj026_1 Mesh117
+    2300288: Model_sketchup_d obj026_1 Mesh118
+    2300290: Model_sketchup_d obj026_1 Mesh119
+    2300292: Model_sketchup_d obj027_1 Mesh120
+    2300294: Model_sketchup_d obj027_1 Mesh121
+    2300296: Model_sketchup_d obj027_1 Mesh122
+    2300298: Model_sketchup_d obj027_1 Mesh123
+    2300300: Model_sketchup_d obj028_1
+    2300302: Model_sketchup_d obj029_1 Mesh124
+    2300304: Model_sketchup_d obj029_1 Mesh125
+    2300306: Model_sketchup_d obj031_1 Mesh126
+    2300308: Model_sketchup_d obj031_1 Mesh127
+    2300310: Model_sketchup_d obj040_1 Mesh128
+    2300312: Model_sketchup_d obj040_1 Mesh129
+    2300314: Model_sketchup_d obj040_1 Mesh130
+    2300316: Model_sketchup_d obj040_1 Mesh131
+    2300318: Model_sketchup_d obj040_1 Mesh132
+    2300320: Model_sketchup_d obj040_1 Mesh133
+    2300322: Model_sketchup_d obj040_1 Mesh134
+    2300324: Model_sketchup_d obj041_1
+    2300326: Model_sketchup_d obj042_1
+    2300328: Model_sketchup_d obj043_1
+    2300330: Model_sketchup_d obj044_1
+    2300332: Model_sketchup_d obj046_1 Mesh135
+    2300334: Model_sketchup_d obj046_1 Mesh136
+    2300336: Model_sketchup_d obj046_1 Mesh137
+    2300338: Model_sketchup_d obj046_1 Mesh138
+    2300340: Model_sketchup_d obj046_1 Mesh139
+    2300342: Model_sketchup_d obj046_1 Mesh140
+    2300344: Model_sketchup_d obj047_1 Mesh141
+    2300346: Model_sketchup_d obj047_1 Mesh142
+    2300348: Model_sketchup_d obj047_1 Mesh143
+    2300350: Model_sketchup_d obj047_1 Mesh144
+    2300352: Model_sketchup_d obj048_1 Mesh145
+    2300354: Model_sketchup_d obj048_1 Mesh146
+    2300356: Model_sketchup_d obj049_1
+    2300358: Model_sketchup_d obj050_1
+    2300360: Model_sketchup_d obj051_1
+    2300362: Model_sketchup_d obj052_1 Mesh147
+    2300364: Model_sketchup_d obj052_1 Mesh148
+    2300366: Model_sketchup_d obj052_1 Mesh149
+    2300368: Model_sketchup_d obj053_1
+    2300370: Model_sketchup_d obj053_2
+    2300372: Model_sketchup_d obj054_1 Mesh150
+    2300374: Model_sketchup_d obj054_1 Mesh151
+    2300376: Model_sketchup_d obj054_1 Mesh152
+    2300378: Model_sketchup_d obj054_1 Mesh153
+    2300380: Model_sketchup_d obj054_1 Mesh154
+    2300382: Model_sketchup_d obj054_1 Mesh155
+    2300384: Model_sketchup_d obj054_1 Mesh156
+    2300386: Model_sketchup_d obj054_1 Mesh157
+    2300388: Model_sketchup_d obj054_2 Mesh242
+    2300390: Model_sketchup_d obj054_2 Mesh243
+    2300392: Model_sketchup_d obj054_2 Mesh244
+    2300394: Model_sketchup_d obj054_2 Mesh245
+    2300396: Model_sketchup_d obj054_2 Mesh246
+    2300398: Model_sketchup_d obj054_2 Mesh247
+    2300400: Model_sketchup_d obj054_2 Mesh248
+    2300402: Model_sketchup_d obj054_2 Mesh249
+    2300404: Model_sketchup_d obj058_1
+    2300406: Model_sketchup_d obj059_1 Mesh158
+    2300408: Model_sketchup_d obj059_1 Mesh159
+    2300410: Model_sketchup_d obj059_1 Mesh160
+    2300412: Model_sketchup_d obj059_1 Mesh161
+    2300414: Model_sketchup_d obj059_1 Mesh162
+    2300416: Model_sketchup_d obj060_1 Mesh163
+    2300418: Model_sketchup_d obj060_1 Mesh164
+    2300420: Model_sketchup_d obj060_1 Mesh165
+    2300422: Model_sketchup_d obj060_1 Mesh166
+    2300424: Model_sketchup_d obj060_1 Mesh167
+    2300426: Model_sketchup_d obj060_1 Mesh168
+    2300428: Model_sketchup_d obj061_1
+    2300430: Model_sketchup_d obj062_1
+    2300432: Model_sketchup_d obj063_1 Mesh169
+    2300434: Model_sketchup_d obj063_1 Mesh170
+    2300436: Model_sketchup_d obj063_1 Mesh171
+    2300438: Model_sketchup_d obj063_1 Mesh172
+    2300440: Model_sketchup_d obj063_1 Mesh173
+    2300442: Model_sketchup_d obj064_1 Mesh174
+    2300444: Model_sketchup_d obj064_1 Mesh175
+    2300446: Model_sketchup_d obj064_1 Mesh176
+    2300448: Model_sketchup_d obj064_1 Mesh177
+    2300450: Model_sketchup_d obj064_1 Mesh178
+    2300452: Model_sketchup_d obj064_1 Mesh179
+    2300454: Model_sketchup_d obj065_1
+    2300456: Model_sketchup_d obj072_1 Mesh180
+    2300458: Model_sketchup_d obj072_1 Mesh181
+    2300460: Model_sketchup_d obj074_1 Mesh182
+    2300462: Model_sketchup_d obj074_1 Mesh183
+    2300464: Model_sketchup_d obj074_1 Mesh184
+    2300466: Model_sketchup_d obj074_1 Mesh185
+    2300468: Model_sketchup_d obj074_1 Mesh186
+    2300470: Model_sketchup_d obj074_1 Mesh187
+    2300472: Model_sketchup_d obj076_1 Mesh188
+    2300474: Model_sketchup_d obj076_1 Mesh189
+    2300476: Model_sketchup_d obj076_1 Mesh190
+    2300478: Model_sketchup_d obj077_1
+    2300480: Model_sketchup_d obj078_1
+    2300482: Model_sketchup_d obj079_1
+    2300484: Model_sketchup_d obj084_1 Mesh191
+    2300486: Model_sketchup_d obj084_1 Mesh192
+    2300488: Model_sketchup_d obj085_1
+    2300490: Model_sketchup_d obj086_1
+    2300492: Model_sketchup_d obj087_1 Mesh193
+    2300494: Model_sketchup_d obj087_1 Mesh194
+    2300496: Model_sketchup_d obj087_1 Mesh195
+    2300498: Model_sketchup_d obj087_1 Mesh196
+    2300500: Model_sketchup_d obj087_1 Mesh197
+    2300502: Model_sketchup_d obj087_1 Mesh198
+    2300504: Model_sketchup_d obj087_1 Mesh199
+    2300506: Model_sketchup_d obj087_1 Mesh200
+    2300508: Model_sketchup_d obj087_1 Mesh201
+    2300510: Model_sketchup_d obj087_1 Mesh202
+    2300512: Model_sketchup_d obj087_1 Mesh203
+    2300514: Model_sketchup_d obj088_1
+    2300516: Model_sketchup_d obj095_1 Mesh204
+    2300518: Model_sketchup_d obj095_1 Mesh205
+    2300520: Model_sketchup_d obj097_1
+    2300522: Model_sketchup_d obj097_2
+    2300524: Model_sketchup_d obj098_1 Mesh206
+    2300526: Model_sketchup_d obj098_1 Mesh207
+    2300528: Model_sketchup_d obj190_1 Mesh208
+    2300530: Model_sketchup_d obj190_1 Mesh209
+    2300532: Model_sketchup_d obj190_1 Mesh210
+    2300534: Model_sketchup_d obj190_1 Mesh211
+    2300536: Model_sketchup_d obj190_1 Mesh212
+    2300538: Model_sketchup_d obj190_1 Mesh213
+    2300540: Model_sketchup_d obj190_1 Mesh214
+    2300542: Model_sketchup_d obj190_1 Mesh215
+    2300544: Model_sketchup_d obj190_1 Mesh216
+    2300546: Model_sketchup_d obj196_1
+    2300548: Model_sketchup_d obj205_1
+    2300550: Model_sketchup_d obj206_1 Mesh217
+    2300552: Model_sketchup_d obj206_1 Mesh218
+    2300554: Model_sketchup_d obj207_1
+    2300556: Model_sketchup_d obj208_1 Mesh219
+    2300558: Model_sketchup_d obj208_1 Mesh220
+    2300560: Model_sketchup_d obj209_1 Mesh250
+    2300562: Model_sketchup_d obj209_1 Mesh251
+    2300564: Model_sketchup_d obj232_1 Mesh221
+    2300566: Model_sketchup_d obj232_1 Mesh222
+    2300568: Model_sketchup_d obj242_1 Mesh223
+    2300570: Model_sketchup_d obj242_1 Mesh224
+    2300572: Model_sketchup_d obj242_1 Mesh225
+    2300574: Model_sketchup_d obj242_1 Mesh226
+    2300576: Model_sketchup_d obj242_1 Mesh227
+    2300578: Model_sketchup_d obj242_1 Mesh228
+    2300580: Model_sketchup_d obj242_1 Mesh229
+    2300582: Model_sketchup_d obj242_1 Mesh230
+    2300584: Model_sketchup_d obj242_1 Mesh231
+    2300586: Model_sketchup_d obj242_1 Mesh232
+    2300588: Model_sketchup_d obj242_1 Mesh233
+    2300590: Model_sketchup_d obj242_1 Mesh234
+    2300592: Model_sketchup_d obj242_1 Mesh235
+    2300594: Model_sketchup_d obj242_1 Mesh236
+    2300596: Model_sketchup_d obj242_1 Mesh237
+    2300598: Model_sketchup_d obj242_1 Mesh238
+    2300600: Model_sketchup_d obj242_1 Mesh239
+    2300602: Model_sketchup_d obj242_1 Mesh240
+    2300604: Model_sketchup_d obj242_1 Mesh241
+    2300606: Model_sketchup_d obj249_1
+    2300608: umgebung_Cube
+    3300000: Model_sketchup_d Group1 Mesh01
+    3300002: Model_sketchup_d Group1 Mesh02
+    3300004: Model_sketchup_d Group1 Mesh03
+    3300006: Model_sketchup_d Group1 Mesh04
+    3300008: Model_sketchup_d Group1 Mesh05
+    3300010: Model_sketchup_d Group1 Mesh06
+    3300012: Model_sketchup_d Group1 Mesh07
+    3300014: Model_sketchup_d Group1 Mesh08
+    3300016: Model_sketchup_d Group1 Mesh09
+    3300018: Model_sketchup_d Group1 Mesh10
+    3300020: Model_sketchup_d Group1 Mesh11
+    3300022: Model_sketchup_d Group1 Mesh12
+    3300024: Model_sketchup_d Group1 Mesh13
+    3300026: Model_sketchup_d Group14 Mesh69
+    3300028: Model_sketchup_d Group14 Mesh70
+    3300030: Model_sketchup_d Group14 Mesh71
+    3300032: Model_sketchup_d Group15 Mesh72
+    3300034: Model_sketchup_d Group15 Mesh73
+    3300036: Model_sketchup_d Group15 Mesh74
+    3300038: Model_sketchup_d Group2 obj016_1 Mesh14
+    3300040: Model_sketchup_d Group2 obj016_1 Mesh15
+    3300042: Model_sketchup_d Group2 obj016_1 Mesh16
+    3300044: Model_sketchup_d Group2 obj016_1 Mesh17
+    3300046: Model_sketchup_d Group2 obj016_1 Mesh18
+    3300048: Model_sketchup_d Group2 obj016_1 Mesh19
+    3300050: Model_sketchup_d Group2 obj039_1
+    3300052: Model_sketchup_d Group2 obj089_1
+    3300054: Model_sketchup_d Group2 obj091_1
+    3300056: Model_sketchup_d Group2 obj199_1 Mesh20
+    3300058: Model_sketchup_d Group2 obj199_1 Mesh21
+    3300060: Model_sketchup_d Group2 obj199_1 Mesh22
+    3300062: Model_sketchup_d Group2 obj199_1 Mesh23
+    3300064: Model_sketchup_d Group2 obj253_1 Mesh24
+    3300066: Model_sketchup_d Group2 obj253_1 Mesh25
+    3300068: Model_sketchup_d Group3 obj016_2 Mesh26
+    3300070: Model_sketchup_d Group3 obj016_2 Mesh27
+    3300072: Model_sketchup_d Group3 obj016_2 Mesh28
+    3300074: Model_sketchup_d Group3 obj016_2 Mesh29
+    3300076: Model_sketchup_d Group3 obj016_2 Mesh30
+    3300078: Model_sketchup_d Group3 obj016_2 Mesh31
+    3300080: Model_sketchup_d Group3 obj039_2
+    3300082: Model_sketchup_d Group3 obj089_2
+    3300084: Model_sketchup_d Group3 obj091_2
+    3300086: Model_sketchup_d Group3 obj199_2 Mesh32
+    3300088: Model_sketchup_d Group3 obj199_2 Mesh33
+    3300090: Model_sketchup_d Group3 obj199_2 Mesh34
+    3300092: Model_sketchup_d Group3 obj199_2 Mesh35
+    3300094: Model_sketchup_d Group3 obj253_2 Mesh36
+    3300096: Model_sketchup_d Group3 obj253_2 Mesh37
+    3300098: Model_sketchup_d Group4 obj016_3 Mesh38
+    3300100: Model_sketchup_d Group4 obj016_3 Mesh39
+    3300102: Model_sketchup_d Group4 obj016_3 Mesh40
+    3300104: Model_sketchup_d Group4 obj016_3 Mesh41
+    3300106: Model_sketchup_d Group4 obj016_3 Mesh42
+    3300108: Model_sketchup_d Group4 obj016_3 Mesh43
+    3300110: Model_sketchup_d Group4 obj039_3
+    3300112: Model_sketchup_d Group4 obj089_3
+    3300114: Model_sketchup_d Group4 obj091_3
+    3300116: Model_sketchup_d Group4 obj199_3 Mesh44
+    3300118: Model_sketchup_d Group4 obj199_3 Mesh45
+    3300120: Model_sketchup_d Group4 obj199_3 Mesh46
+    3300122: Model_sketchup_d Group4 obj199_3 Mesh47
+    3300124: Model_sketchup_d Group4 obj253_3 Mesh48
+    3300126: Model_sketchup_d Group4 obj253_3 Mesh49
+    3300128: Model_sketchup_d Group5 obj016_4 Mesh50
+    3300130: Model_sketchup_d Group5 obj016_4 Mesh51
+    3300132: Model_sketchup_d Group5 obj016_4 Mesh52
+    3300134: Model_sketchup_d Group5 obj016_4 Mesh53
+    3300136: Model_sketchup_d Group5 obj016_4 Mesh54
+    3300138: Model_sketchup_d Group5 obj016_4 Mesh55
+    3300140: Model_sketchup_d Group5 obj039_4
+    3300142: Model_sketchup_d Group5 obj089_4
+    3300144: Model_sketchup_d Group5 obj091_4
+    3300146: Model_sketchup_d Group5 obj199_4 Mesh56
+    3300148: Model_sketchup_d Group5 obj199_4 Mesh57
+    3300150: Model_sketchup_d Group5 obj199_4 Mesh58
+    3300152: Model_sketchup_d Group5 obj199_4 Mesh59
+    3300154: Model_sketchup_d Group5 obj253_4 Mesh60
+    3300156: Model_sketchup_d Group5 obj253_4 Mesh61
+    3300158: Model_sketchup_d Group6 Group10
+    3300160: Model_sketchup_d Group6 Group11
+    3300162: Model_sketchup_d Group6 Group12
+    3300164: Model_sketchup_d Group6 Group7
+    3300166: Model_sketchup_d Group6 Group8
+    3300168: Model_sketchup_d Group6 Group9 Mesh62
+    3300170: Model_sketchup_d Group6 Group9 Mesh63
+    3300172: Model_sketchup_d Group6 obj011_1_1 Group13
+    3300174: Model_sketchup_d Group6 obj011_1_1 Mesh64
+    3300176: Model_sketchup_d Group6 obj011_1_1 Mesh65
+    3300178: Model_sketchup_d Group6 obj011_1_1 Mesh66
+    3300180: Model_sketchup_d Group6 obj011_1_1 Mesh67
+    3300182: Model_sketchup_d Group6 obj011_1_1 Mesh68
+    3300184: Model_sketchup_d Mesh252
+    3300186: Model_sketchup_d Mesh253
+    3300188: Model_sketchup_d obj005_1 Group16
+    3300190: Model_sketchup_d obj005_1 Group17 Mesh75
+    3300192: Model_sketchup_d obj005_1 Group17 Mesh76
+    3300194: Model_sketchup_d obj005_1 Group18
+    3300196: Model_sketchup_d obj005_1 Group19
+    3300198: Model_sketchup_d obj005_1 Group20
+    3300200: Model_sketchup_d obj005_1 Group21
+    3300202: Model_sketchup_d obj005_1 Mesh77
+    3300204: Model_sketchup_d obj005_1 Mesh78
+    3300206: Model_sketchup_d obj009_1 Mesh79
+    3300208: Model_sketchup_d obj009_1 Mesh80
+    3300210: Model_sketchup_d obj009_1 Mesh81
+    3300212: Model_sketchup_d obj009_1 Mesh82
+    3300214: Model_sketchup_d obj009_1 Mesh83
+    3300216: Model_sketchup_d obj009_1 Mesh84
+    3300218: Model_sketchup_d obj009_1 Mesh85
+    3300220: Model_sketchup_d obj009_1 Mesh86
+    3300222: Model_sketchup_d obj009_1 Mesh87
+    3300224: Model_sketchup_d obj009_1 Mesh88
+    3300226: Model_sketchup_d obj010_1 Mesh89
+    3300228: Model_sketchup_d obj010_1 Mesh90
+    3300230: Model_sketchup_d obj010_1 Mesh91
+    3300232: Model_sketchup_d obj012_1 Mesh92
+    3300234: Model_sketchup_d obj012_1 Mesh93
+    3300236: Model_sketchup_d obj012_1 Mesh94
+    3300238: Model_sketchup_d obj012_1 Mesh95
+    3300240: Model_sketchup_d obj013_1
+    3300242: Model_sketchup_d obj015_1
+    3300244: Model_sketchup_d obj020_1 Mesh96
+    3300246: Model_sketchup_d obj020_1 Mesh97
+    3300248: Model_sketchup_d obj021_1 Mesh98
+    3300250: Model_sketchup_d obj021_1 Mesh99
+    3300252: Model_sketchup_d obj022_1 Mesh100
+    3300254: Model_sketchup_d obj022_1 Mesh101
+    3300256: Model_sketchup_d obj022_1 Mesh102
+    3300258: Model_sketchup_d obj022_1 Mesh103
+    3300260: Model_sketchup_d obj022_1 Mesh104
+    3300262: Model_sketchup_d obj025_1 Mesh105
+    3300264: Model_sketchup_d obj025_1 Mesh106
+    3300266: Model_sketchup_d obj025_1 Mesh107
+    3300268: Model_sketchup_d obj025_1 Mesh108
+    3300270: Model_sketchup_d obj025_1 Mesh109
+    3300272: Model_sketchup_d obj025_1 Mesh110
+    3300274: Model_sketchup_d obj025_1 Mesh111
+    3300276: Model_sketchup_d obj025_1 Mesh112
+    3300278: Model_sketchup_d obj025_1 Mesh113
+    3300280: Model_sketchup_d obj026_1 Mesh114
+    3300282: Model_sketchup_d obj026_1 Mesh115
+    3300284: Model_sketchup_d obj026_1 Mesh116
+    3300286: Model_sketchup_d obj026_1 Mesh117
+    3300288: Model_sketchup_d obj026_1 Mesh118
+    3300290: Model_sketchup_d obj026_1 Mesh119
+    3300292: Model_sketchup_d obj027_1 Mesh120
+    3300294: Model_sketchup_d obj027_1 Mesh121
+    3300296: Model_sketchup_d obj027_1 Mesh122
+    3300298: Model_sketchup_d obj027_1 Mesh123
+    3300300: Model_sketchup_d obj028_1
+    3300302: Model_sketchup_d obj029_1 Mesh124
+    3300304: Model_sketchup_d obj029_1 Mesh125
+    3300306: Model_sketchup_d obj031_1 Mesh126
+    3300308: Model_sketchup_d obj031_1 Mesh127
+    3300310: Model_sketchup_d obj040_1 Mesh128
+    3300312: Model_sketchup_d obj040_1 Mesh129
+    3300314: Model_sketchup_d obj040_1 Mesh130
+    3300316: Model_sketchup_d obj040_1 Mesh131
+    3300318: Model_sketchup_d obj040_1 Mesh132
+    3300320: Model_sketchup_d obj040_1 Mesh133
+    3300322: Model_sketchup_d obj040_1 Mesh134
+    3300324: Model_sketchup_d obj041_1
+    3300326: Model_sketchup_d obj042_1
+    3300328: Model_sketchup_d obj043_1
+    3300330: Model_sketchup_d obj044_1
+    3300332: Model_sketchup_d obj046_1 Mesh135
+    3300334: Model_sketchup_d obj046_1 Mesh136
+    3300336: Model_sketchup_d obj046_1 Mesh137
+    3300338: Model_sketchup_d obj046_1 Mesh138
+    3300340: Model_sketchup_d obj046_1 Mesh139
+    3300342: Model_sketchup_d obj046_1 Mesh140
+    3300344: Model_sketchup_d obj047_1 Mesh141
+    3300346: Model_sketchup_d obj047_1 Mesh142
+    3300348: Model_sketchup_d obj047_1 Mesh143
+    3300350: Model_sketchup_d obj047_1 Mesh144
+    3300352: Model_sketchup_d obj048_1 Mesh145
+    3300354: Model_sketchup_d obj048_1 Mesh146
+    3300356: Model_sketchup_d obj049_1
+    3300358: Model_sketchup_d obj050_1
+    3300360: Model_sketchup_d obj051_1
+    3300362: Model_sketchup_d obj052_1 Mesh147
+    3300364: Model_sketchup_d obj052_1 Mesh148
+    3300366: Model_sketchup_d obj052_1 Mesh149
+    3300368: Model_sketchup_d obj053_1
+    3300370: Model_sketchup_d obj053_2
+    3300372: Model_sketchup_d obj054_1 Mesh150
+    3300374: Model_sketchup_d obj054_1 Mesh151
+    3300376: Model_sketchup_d obj054_1 Mesh152
+    3300378: Model_sketchup_d obj054_1 Mesh153
+    3300380: Model_sketchup_d obj054_1 Mesh154
+    3300382: Model_sketchup_d obj054_1 Mesh155
+    3300384: Model_sketchup_d obj054_1 Mesh156
+    3300386: Model_sketchup_d obj054_1 Mesh157
+    3300388: Model_sketchup_d obj054_2 Mesh242
+    3300390: Model_sketchup_d obj054_2 Mesh243
+    3300392: Model_sketchup_d obj054_2 Mesh244
+    3300394: Model_sketchup_d obj054_2 Mesh245
+    3300396: Model_sketchup_d obj054_2 Mesh246
+    3300398: Model_sketchup_d obj054_2 Mesh247
+    3300400: Model_sketchup_d obj054_2 Mesh248
+    3300402: Model_sketchup_d obj054_2 Mesh249
+    3300404: Model_sketchup_d obj058_1
+    3300406: Model_sketchup_d obj059_1 Mesh158
+    3300408: Model_sketchup_d obj059_1 Mesh159
+    3300410: Model_sketchup_d obj059_1 Mesh160
+    3300412: Model_sketchup_d obj059_1 Mesh161
+    3300414: Model_sketchup_d obj059_1 Mesh162
+    3300416: Model_sketchup_d obj060_1 Mesh163
+    3300418: Model_sketchup_d obj060_1 Mesh164
+    3300420: Model_sketchup_d obj060_1 Mesh165
+    3300422: Model_sketchup_d obj060_1 Mesh166
+    3300424: Model_sketchup_d obj060_1 Mesh167
+    3300426: Model_sketchup_d obj060_1 Mesh168
+    3300428: Model_sketchup_d obj061_1
+    3300430: Model_sketchup_d obj062_1
+    3300432: Model_sketchup_d obj063_1 Mesh169
+    3300434: Model_sketchup_d obj063_1 Mesh170
+    3300436: Model_sketchup_d obj063_1 Mesh171
+    3300438: Model_sketchup_d obj063_1 Mesh172
+    3300440: Model_sketchup_d obj063_1 Mesh173
+    3300442: Model_sketchup_d obj064_1 Mesh174
+    3300444: Model_sketchup_d obj064_1 Mesh175
+    3300446: Model_sketchup_d obj064_1 Mesh176
+    3300448: Model_sketchup_d obj064_1 Mesh177
+    3300450: Model_sketchup_d obj064_1 Mesh178
+    3300452: Model_sketchup_d obj064_1 Mesh179
+    3300454: Model_sketchup_d obj065_1
+    3300456: Model_sketchup_d obj072_1 Mesh180
+    3300458: Model_sketchup_d obj072_1 Mesh181
+    3300460: Model_sketchup_d obj074_1 Mesh182
+    3300462: Model_sketchup_d obj074_1 Mesh183
+    3300464: Model_sketchup_d obj074_1 Mesh184
+    3300466: Model_sketchup_d obj074_1 Mesh185
+    3300468: Model_sketchup_d obj074_1 Mesh186
+    3300470: Model_sketchup_d obj074_1 Mesh187
+    3300472: Model_sketchup_d obj076_1 Mesh188
+    3300474: Model_sketchup_d obj076_1 Mesh189
+    3300476: Model_sketchup_d obj076_1 Mesh190
+    3300478: Model_sketchup_d obj077_1
+    3300480: Model_sketchup_d obj078_1
+    3300482: Model_sketchup_d obj079_1
+    3300484: Model_sketchup_d obj084_1 Mesh191
+    3300486: Model_sketchup_d obj084_1 Mesh192
+    3300488: Model_sketchup_d obj085_1
+    3300490: Model_sketchup_d obj086_1
+    3300492: Model_sketchup_d obj087_1 Mesh193
+    3300494: Model_sketchup_d obj087_1 Mesh194
+    3300496: Model_sketchup_d obj087_1 Mesh195
+    3300498: Model_sketchup_d obj087_1 Mesh196
+    3300500: Model_sketchup_d obj087_1 Mesh197
+    3300502: Model_sketchup_d obj087_1 Mesh198
+    3300504: Model_sketchup_d obj087_1 Mesh199
+    3300506: Model_sketchup_d obj087_1 Mesh200
+    3300508: Model_sketchup_d obj087_1 Mesh201
+    3300510: Model_sketchup_d obj087_1 Mesh202
+    3300512: Model_sketchup_d obj087_1 Mesh203
+    3300514: Model_sketchup_d obj088_1
+    3300516: Model_sketchup_d obj095_1 Mesh204
+    3300518: Model_sketchup_d obj095_1 Mesh205
+    3300520: Model_sketchup_d obj097_1
+    3300522: Model_sketchup_d obj097_2
+    3300524: Model_sketchup_d obj098_1 Mesh206
+    3300526: Model_sketchup_d obj098_1 Mesh207
+    3300528: Model_sketchup_d obj190_1 Mesh208
+    3300530: Model_sketchup_d obj190_1 Mesh209
+    3300532: Model_sketchup_d obj190_1 Mesh210
+    3300534: Model_sketchup_d obj190_1 Mesh211
+    3300536: Model_sketchup_d obj190_1 Mesh212
+    3300538: Model_sketchup_d obj190_1 Mesh213
+    3300540: Model_sketchup_d obj190_1 Mesh214
+    3300542: Model_sketchup_d obj190_1 Mesh215
+    3300544: Model_sketchup_d obj190_1 Mesh216
+    3300546: Model_sketchup_d obj196_1
+    3300548: Model_sketchup_d obj205_1
+    3300550: Model_sketchup_d obj206_1 Mesh217
+    3300552: Model_sketchup_d obj206_1 Mesh218
+    3300554: Model_sketchup_d obj207_1
+    3300556: Model_sketchup_d obj208_1 Mesh219
+    3300558: Model_sketchup_d obj208_1 Mesh220
+    3300560: Model_sketchup_d obj209_1 Mesh250
+    3300562: Model_sketchup_d obj209_1 Mesh251
+    3300564: Model_sketchup_d obj232_1 Mesh221
+    3300566: Model_sketchup_d obj232_1 Mesh222
+    3300568: Model_sketchup_d obj242_1 Mesh223
+    3300570: Model_sketchup_d obj242_1 Mesh224
+    3300572: Model_sketchup_d obj242_1 Mesh225
+    3300574: Model_sketchup_d obj242_1 Mesh226
+    3300576: Model_sketchup_d obj242_1 Mesh227
+    3300578: Model_sketchup_d obj242_1 Mesh228
+    3300580: Model_sketchup_d obj242_1 Mesh229
+    3300582: Model_sketchup_d obj242_1 Mesh230
+    3300584: Model_sketchup_d obj242_1 Mesh231
+    3300586: Model_sketchup_d obj242_1 Mesh232
+    3300588: Model_sketchup_d obj242_1 Mesh233
+    3300590: Model_sketchup_d obj242_1 Mesh234
+    3300592: Model_sketchup_d obj242_1 Mesh235
+    3300594: Model_sketchup_d obj242_1 Mesh236
+    3300596: Model_sketchup_d obj242_1 Mesh237
+    3300598: Model_sketchup_d obj242_1 Mesh238
+    3300600: Model_sketchup_d obj242_1 Mesh239
+    3300602: Model_sketchup_d obj242_1 Mesh240
+    3300604: Model_sketchup_d obj242_1 Mesh241
+    3300606: Model_sketchup_d obj249_1
+    3300608: umgebung_Cube
+    4300000: Model_sketchup_d Group1 Mesh01
+    4300002: Model_sketchup_d Group1 Mesh02
+    4300004: Model_sketchup_d Group1 Mesh03
+    4300006: Model_sketchup_d Group1 Mesh04
+    4300008: Model_sketchup_d Group1 Mesh05
+    4300010: Model_sketchup_d Group1 Mesh06
+    4300012: Model_sketchup_d Group1 Mesh07
+    4300014: Model_sketchup_d Group1 Mesh08
+    4300016: Model_sketchup_d Group1 Mesh09
+    4300018: Model_sketchup_d Group1 Mesh10
+    4300020: Model_sketchup_d Group1 Mesh11
+    4300022: Model_sketchup_d Group1 Mesh12
+    4300024: Model_sketchup_d Group1 Mesh13
+    4300026: Model_sketchup_d Group14 Mesh69
+    4300028: Model_sketchup_d Group14 Mesh70
+    4300030: Model_sketchup_d Group14 Mesh71
+    4300032: Model_sketchup_d Group15 Mesh72
+    4300034: Model_sketchup_d Group15 Mesh73
+    4300036: Model_sketchup_d Group15 Mesh74
+    4300038: Model_sketchup_d Group2 obj016_1 Mesh14
+    4300040: Model_sketchup_d Group2 obj016_1 Mesh15
+    4300042: Model_sketchup_d Group2 obj016_1 Mesh16
+    4300044: Model_sketchup_d Group2 obj016_1 Mesh17
+    4300046: Model_sketchup_d Group2 obj016_1 Mesh18
+    4300048: Model_sketchup_d Group2 obj016_1 Mesh19
+    4300050: Model_sketchup_d Group2 obj039_1
+    4300052: Model_sketchup_d Group2 obj089_1
+    4300054: Model_sketchup_d Group2 obj091_1
+    4300056: Model_sketchup_d Group2 obj199_1 Mesh20
+    4300058: Model_sketchup_d Group2 obj199_1 Mesh21
+    4300060: Model_sketchup_d Group2 obj199_1 Mesh22
+    4300062: Model_sketchup_d Group2 obj199_1 Mesh23
+    4300064: Model_sketchup_d Group2 obj253_1 Mesh24
+    4300066: Model_sketchup_d Group2 obj253_1 Mesh25
+    4300068: Model_sketchup_d Group3 obj016_2 Mesh26
+    4300070: Model_sketchup_d Group3 obj016_2 Mesh27
+    4300072: Model_sketchup_d Group3 obj016_2 Mesh28
+    4300074: Model_sketchup_d Group3 obj016_2 Mesh29
+    4300076: Model_sketchup_d Group3 obj016_2 Mesh30
+    4300078: Model_sketchup_d Group3 obj016_2 Mesh31
+    4300080: Model_sketchup_d Group3 obj039_2
+    4300082: Model_sketchup_d Group3 obj089_2
+    4300084: Model_sketchup_d Group3 obj091_2
+    4300086: Model_sketchup_d Group3 obj199_2 Mesh32
+    4300088: Model_sketchup_d Group3 obj199_2 Mesh33
+    4300090: Model_sketchup_d Group3 obj199_2 Mesh34
+    4300092: Model_sketchup_d Group3 obj199_2 Mesh35
+    4300094: Model_sketchup_d Group3 obj253_2 Mesh36
+    4300096: Model_sketchup_d Group3 obj253_2 Mesh37
+    4300098: Model_sketchup_d Group4 obj016_3 Mesh38
+    4300100: Model_sketchup_d Group4 obj016_3 Mesh39
+    4300102: Model_sketchup_d Group4 obj016_3 Mesh40
+    4300104: Model_sketchup_d Group4 obj016_3 Mesh41
+    4300106: Model_sketchup_d Group4 obj016_3 Mesh42
+    4300108: Model_sketchup_d Group4 obj016_3 Mesh43
+    4300110: Model_sketchup_d Group4 obj039_3
+    4300112: Model_sketchup_d Group4 obj089_3
+    4300114: Model_sketchup_d Group4 obj091_3
+    4300116: Model_sketchup_d Group4 obj199_3 Mesh44
+    4300118: Model_sketchup_d Group4 obj199_3 Mesh45
+    4300120: Model_sketchup_d Group4 obj199_3 Mesh46
+    4300122: Model_sketchup_d Group4 obj199_3 Mesh47
+    4300124: Model_sketchup_d Group4 obj253_3 Mesh48
+    4300126: Model_sketchup_d Group4 obj253_3 Mesh49
+    4300128: Model_sketchup_d Group5 obj016_4 Mesh50
+    4300130: Model_sketchup_d Group5 obj016_4 Mesh51
+    4300132: Model_sketchup_d Group5 obj016_4 Mesh52
+    4300134: Model_sketchup_d Group5 obj016_4 Mesh53
+    4300136: Model_sketchup_d Group5 obj016_4 Mesh54
+    4300138: Model_sketchup_d Group5 obj016_4 Mesh55
+    4300140: Model_sketchup_d Group5 obj039_4
+    4300142: Model_sketchup_d Group5 obj089_4
+    4300144: Model_sketchup_d Group5 obj091_4
+    4300146: Model_sketchup_d Group5 obj199_4 Mesh56
+    4300148: Model_sketchup_d Group5 obj199_4 Mesh57
+    4300150: Model_sketchup_d Group5 obj199_4 Mesh58
+    4300152: Model_sketchup_d Group5 obj199_4 Mesh59
+    4300154: Model_sketchup_d Group5 obj253_4 Mesh60
+    4300156: Model_sketchup_d Group5 obj253_4 Mesh61
+    4300158: Model_sketchup_d Group6 Group10
+    4300160: Model_sketchup_d Group6 Group11
+    4300162: Model_sketchup_d Group6 Group12
+    4300164: Model_sketchup_d Group6 Group7
+    4300166: Model_sketchup_d Group6 Group8
+    4300168: Model_sketchup_d Group6 Group9 Mesh62
+    4300170: Model_sketchup_d Group6 Group9 Mesh63
+    4300172: Model_sketchup_d Group6 obj011_1_1 Group13
+    4300174: Model_sketchup_d Group6 obj011_1_1 Mesh64
+    4300176: Model_sketchup_d Group6 obj011_1_1 Mesh65
+    4300178: Model_sketchup_d Group6 obj011_1_1 Mesh66
+    4300180: Model_sketchup_d Group6 obj011_1_1 Mesh67
+    4300182: Model_sketchup_d Group6 obj011_1_1 Mesh68
+    4300184: Model_sketchup_d Mesh252
+    4300186: Model_sketchup_d Mesh253
+    4300188: Model_sketchup_d obj005_1 Group16
+    4300190: Model_sketchup_d obj005_1 Group17 Mesh75
+    4300192: Model_sketchup_d obj005_1 Group17 Mesh76
+    4300194: Model_sketchup_d obj005_1 Group18
+    4300196: Model_sketchup_d obj005_1 Group19
+    4300198: Model_sketchup_d obj005_1 Group20
+    4300200: Model_sketchup_d obj005_1 Group21
+    4300202: Model_sketchup_d obj005_1 Mesh77
+    4300204: Model_sketchup_d obj005_1 Mesh78
+    4300206: Model_sketchup_d obj009_1 Mesh79
+    4300208: Model_sketchup_d obj009_1 Mesh80
+    4300210: Model_sketchup_d obj009_1 Mesh81
+    4300212: Model_sketchup_d obj009_1 Mesh82
+    4300214: Model_sketchup_d obj009_1 Mesh83
+    4300216: Model_sketchup_d obj009_1 Mesh84
+    4300218: Model_sketchup_d obj009_1 Mesh85
+    4300220: Model_sketchup_d obj009_1 Mesh86
+    4300222: Model_sketchup_d obj009_1 Mesh87
+    4300224: Model_sketchup_d obj009_1 Mesh88
+    4300226: Model_sketchup_d obj010_1 Mesh89
+    4300228: Model_sketchup_d obj010_1 Mesh90
+    4300230: Model_sketchup_d obj010_1 Mesh91
+    4300232: Model_sketchup_d obj012_1 Mesh92
+    4300234: Model_sketchup_d obj012_1 Mesh93
+    4300236: Model_sketchup_d obj012_1 Mesh94
+    4300238: Model_sketchup_d obj012_1 Mesh95
+    4300240: Model_sketchup_d obj013_1
+    4300242: Model_sketchup_d obj015_1
+    4300244: Model_sketchup_d obj020_1 Mesh96
+    4300246: Model_sketchup_d obj020_1 Mesh97
+    4300248: Model_sketchup_d obj021_1 Mesh98
+    4300250: Model_sketchup_d obj021_1 Mesh99
+    4300252: Model_sketchup_d obj022_1 Mesh100
+    4300254: Model_sketchup_d obj022_1 Mesh101
+    4300256: Model_sketchup_d obj022_1 Mesh102
+    4300258: Model_sketchup_d obj022_1 Mesh103
+    4300260: Model_sketchup_d obj022_1 Mesh104
+    4300262: Model_sketchup_d obj025_1 Mesh105
+    4300264: Model_sketchup_d obj025_1 Mesh106
+    4300266: Model_sketchup_d obj025_1 Mesh107
+    4300268: Model_sketchup_d obj025_1 Mesh108
+    4300270: Model_sketchup_d obj025_1 Mesh109
+    4300272: Model_sketchup_d obj025_1 Mesh110
+    4300274: Model_sketchup_d obj025_1 Mesh111
+    4300276: Model_sketchup_d obj025_1 Mesh112
+    4300278: Model_sketchup_d obj025_1 Mesh113
+    4300280: Model_sketchup_d obj026_1 Mesh114
+    4300282: Model_sketchup_d obj026_1 Mesh115
+    4300284: Model_sketchup_d obj026_1 Mesh116
+    4300286: Model_sketchup_d obj026_1 Mesh117
+    4300288: Model_sketchup_d obj026_1 Mesh118
+    4300290: Model_sketchup_d obj026_1 Mesh119
+    4300292: Model_sketchup_d obj027_1 Mesh120
+    4300294: Model_sketchup_d obj027_1 Mesh121
+    4300296: Model_sketchup_d obj027_1 Mesh122
+    4300298: Model_sketchup_d obj027_1 Mesh123
+    4300300: Model_sketchup_d obj028_1
+    4300302: Model_sketchup_d obj029_1 Mesh124
+    4300304: Model_sketchup_d obj029_1 Mesh125
+    4300306: Model_sketchup_d obj031_1 Mesh126
+    4300308: Model_sketchup_d obj031_1 Mesh127
+    4300310: Model_sketchup_d obj040_1 Mesh128
+    4300312: Model_sketchup_d obj040_1 Mesh129
+    4300314: Model_sketchup_d obj040_1 Mesh130
+    4300316: Model_sketchup_d obj040_1 Mesh131
+    4300318: Model_sketchup_d obj040_1 Mesh132
+    4300320: Model_sketchup_d obj040_1 Mesh133
+    4300322: Model_sketchup_d obj040_1 Mesh134
+    4300324: Model_sketchup_d obj041_1
+    4300326: Model_sketchup_d obj042_1
+    4300328: Model_sketchup_d obj043_1
+    4300330: Model_sketchup_d obj044_1
+    4300332: Model_sketchup_d obj046_1 Mesh135
+    4300334: Model_sketchup_d obj046_1 Mesh136
+    4300336: Model_sketchup_d obj046_1 Mesh137
+    4300338: Model_sketchup_d obj046_1 Mesh138
+    4300340: Model_sketchup_d obj046_1 Mesh139
+    4300342: Model_sketchup_d obj046_1 Mesh140
+    4300344: Model_sketchup_d obj047_1 Mesh141
+    4300346: Model_sketchup_d obj047_1 Mesh142
+    4300348: Model_sketchup_d obj047_1 Mesh143
+    4300350: Model_sketchup_d obj047_1 Mesh144
+    4300352: Model_sketchup_d obj048_1 Mesh145
+    4300354: Model_sketchup_d obj048_1 Mesh146
+    4300356: Model_sketchup_d obj049_1
+    4300358: Model_sketchup_d obj050_1
+    4300360: Model_sketchup_d obj051_1
+    4300362: Model_sketchup_d obj052_1 Mesh147
+    4300364: Model_sketchup_d obj052_1 Mesh148
+    4300366: Model_sketchup_d obj052_1 Mesh149
+    4300368: Model_sketchup_d obj053_1
+    4300370: Model_sketchup_d obj053_2
+    4300372: Model_sketchup_d obj054_1 Mesh150
+    4300374: Model_sketchup_d obj054_1 Mesh151
+    4300376: Model_sketchup_d obj054_1 Mesh152
+    4300378: Model_sketchup_d obj054_1 Mesh153
+    4300380: Model_sketchup_d obj054_1 Mesh154
+    4300382: Model_sketchup_d obj054_1 Mesh155
+    4300384: Model_sketchup_d obj054_1 Mesh156
+    4300386: Model_sketchup_d obj054_1 Mesh157
+    4300388: Model_sketchup_d obj054_2 Mesh242
+    4300390: Model_sketchup_d obj054_2 Mesh243
+    4300392: Model_sketchup_d obj054_2 Mesh244
+    4300394: Model_sketchup_d obj054_2 Mesh245
+    4300396: Model_sketchup_d obj054_2 Mesh246
+    4300398: Model_sketchup_d obj054_2 Mesh247
+    4300400: Model_sketchup_d obj054_2 Mesh248
+    4300402: Model_sketchup_d obj054_2 Mesh249
+    4300404: Model_sketchup_d obj058_1
+    4300406: Model_sketchup_d obj059_1 Mesh158
+    4300408: Model_sketchup_d obj059_1 Mesh159
+    4300410: Model_sketchup_d obj059_1 Mesh160
+    4300412: Model_sketchup_d obj059_1 Mesh161
+    4300414: Model_sketchup_d obj059_1 Mesh162
+    4300416: Model_sketchup_d obj060_1 Mesh163
+    4300418: Model_sketchup_d obj060_1 Mesh164
+    4300420: Model_sketchup_d obj060_1 Mesh165
+    4300422: Model_sketchup_d obj060_1 Mesh166
+    4300424: Model_sketchup_d obj060_1 Mesh167
+    4300426: Model_sketchup_d obj060_1 Mesh168
+    4300428: Model_sketchup_d obj061_1
+    4300430: Model_sketchup_d obj062_1
+    4300432: Model_sketchup_d obj063_1 Mesh169
+    4300434: Model_sketchup_d obj063_1 Mesh170
+    4300436: Model_sketchup_d obj063_1 Mesh171
+    4300438: Model_sketchup_d obj063_1 Mesh172
+    4300440: Model_sketchup_d obj063_1 Mesh173
+    4300442: Model_sketchup_d obj064_1 Mesh174
+    4300444: Model_sketchup_d obj064_1 Mesh175
+    4300446: Model_sketchup_d obj064_1 Mesh176
+    4300448: Model_sketchup_d obj064_1 Mesh177
+    4300450: Model_sketchup_d obj064_1 Mesh178
+    4300452: Model_sketchup_d obj064_1 Mesh179
+    4300454: Model_sketchup_d obj065_1
+    4300456: Model_sketchup_d obj072_1 Mesh180
+    4300458: Model_sketchup_d obj072_1 Mesh181
+    4300460: Model_sketchup_d obj074_1 Mesh182
+    4300462: Model_sketchup_d obj074_1 Mesh183
+    4300464: Model_sketchup_d obj074_1 Mesh184
+    4300466: Model_sketchup_d obj074_1 Mesh185
+    4300468: Model_sketchup_d obj074_1 Mesh186
+    4300470: Model_sketchup_d obj074_1 Mesh187
+    4300472: Model_sketchup_d obj076_1 Mesh188
+    4300474: Model_sketchup_d obj076_1 Mesh189
+    4300476: Model_sketchup_d obj076_1 Mesh190
+    4300478: Model_sketchup_d obj077_1
+    4300480: Model_sketchup_d obj078_1
+    4300482: Model_sketchup_d obj079_1
+    4300484: Model_sketchup_d obj084_1 Mesh191
+    4300486: Model_sketchup_d obj084_1 Mesh192
+    4300488: Model_sketchup_d obj085_1
+    4300490: Model_sketchup_d obj086_1
+    4300492: Model_sketchup_d obj087_1 Mesh193
+    4300494: Model_sketchup_d obj087_1 Mesh194
+    4300496: Model_sketchup_d obj087_1 Mesh195
+    4300498: Model_sketchup_d obj087_1 Mesh196
+    4300500: Model_sketchup_d obj087_1 Mesh197
+    4300502: Model_sketchup_d obj087_1 Mesh198
+    4300504: Model_sketchup_d obj087_1 Mesh199
+    4300506: Model_sketchup_d obj087_1 Mesh200
+    4300508: Model_sketchup_d obj087_1 Mesh201
+    4300510: Model_sketchup_d obj087_1 Mesh202
+    4300512: Model_sketchup_d obj087_1 Mesh203
+    4300514: Model_sketchup_d obj088_1
+    4300516: Model_sketchup_d obj095_1 Mesh204
+    4300518: Model_sketchup_d obj095_1 Mesh205
+    4300520: Model_sketchup_d obj097_1
+    4300522: Model_sketchup_d obj097_2
+    4300524: Model_sketchup_d obj098_1 Mesh206
+    4300526: Model_sketchup_d obj098_1 Mesh207
+    4300528: Model_sketchup_d obj190_1 Mesh208
+    4300530: Model_sketchup_d obj190_1 Mesh209
+    4300532: Model_sketchup_d obj190_1 Mesh210
+    4300534: Model_sketchup_d obj190_1 Mesh211
+    4300536: Model_sketchup_d obj190_1 Mesh212
+    4300538: Model_sketchup_d obj190_1 Mesh213
+    4300540: Model_sketchup_d obj190_1 Mesh214
+    4300542: Model_sketchup_d obj190_1 Mesh215
+    4300544: Model_sketchup_d obj190_1 Mesh216
+    4300546: Model_sketchup_d obj196_1
+    4300548: Model_sketchup_d obj205_1
+    4300550: Model_sketchup_d obj206_1 Mesh217
+    4300552: Model_sketchup_d obj206_1 Mesh218
+    4300554: Model_sketchup_d obj207_1
+    4300556: Model_sketchup_d obj208_1 Mesh219
+    4300558: Model_sketchup_d obj208_1 Mesh220
+    4300560: Model_sketchup_d obj209_1 Mesh250
+    4300562: Model_sketchup_d obj209_1 Mesh251
+    4300564: Model_sketchup_d obj232_1 Mesh221
+    4300566: Model_sketchup_d obj232_1 Mesh222
+    4300568: Model_sketchup_d obj242_1 Mesh223
+    4300570: Model_sketchup_d obj242_1 Mesh224
+    4300572: Model_sketchup_d obj242_1 Mesh225
+    4300574: Model_sketchup_d obj242_1 Mesh226
+    4300576: Model_sketchup_d obj242_1 Mesh227
+    4300578: Model_sketchup_d obj242_1 Mesh228
+    4300580: Model_sketchup_d obj242_1 Mesh229
+    4300582: Model_sketchup_d obj242_1 Mesh230
+    4300584: Model_sketchup_d obj242_1 Mesh231
+    4300586: Model_sketchup_d obj242_1 Mesh232
+    4300588: Model_sketchup_d obj242_1 Mesh233
+    4300590: Model_sketchup_d obj242_1 Mesh234
+    4300592: Model_sketchup_d obj242_1 Mesh235
+    4300594: Model_sketchup_d obj242_1 Mesh236
+    4300596: Model_sketchup_d obj242_1 Mesh237
+    4300598: Model_sketchup_d obj242_1 Mesh238
+    4300600: Model_sketchup_d obj242_1 Mesh239
+    4300602: Model_sketchup_d obj242_1 Mesh240
+    4300604: Model_sketchup_d obj242_1 Mesh241
+    4300606: Model_sketchup_d obj249_1
+    4300608: umgebung_Cube
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
