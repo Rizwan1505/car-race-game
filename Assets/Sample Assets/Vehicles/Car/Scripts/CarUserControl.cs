@@ -10,6 +10,10 @@ public class CarUserControl : MonoBehaviour
     {
         // get the car controller
         car = GetComponent<CarController>();
+
+		if (networkView.isMine) {
+			GameObject.Find("Car Camera Rig").GetComponent<AutoCam>().SetTarget(this.gameObject.transform);
+		}
     }
 
 
