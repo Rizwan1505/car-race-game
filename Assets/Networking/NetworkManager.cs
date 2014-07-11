@@ -21,6 +21,9 @@ public class NetworkManager : MonoBehaviour {
 	{
 		Network.InitializeServer(4, 25000, !Network.HavePublicAddress());
 		MasterServer.RegisterHost(typeName, gameName);
+
+		// Increase default send rate
+		Network.sendRate = 60;
 	}
 
 	void OnServerInitialized()
