@@ -15,14 +15,16 @@ public class CarUserControl : MonoBehaviour
 
     void FixedUpdate()
     {
-        // pass the input to the car!
+		if (networkView.isMine) {
+						// pass the input to the car!
 #if CROSS_PLATFORM_INPUT
-		float h = CrossPlatformInput.GetAxis("Horizontal");
-		float v = CrossPlatformInput.GetAxis("Vertical");
+						float h = CrossPlatformInput.GetAxis ("Horizontal");
+						float v = CrossPlatformInput.GetAxis ("Vertical");
 #else
 		float h = Input.GetAxis("Horizontal");
 		float v = Input.GetAxis("Vertical");
 #endif
-        car.Move(h,v);
+						car.Move (h, v);
+				}
     }
 }
