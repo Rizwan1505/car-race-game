@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{16CBB809-FB26-92CE-1FA2-8D33558BAE43}</ProjectGuid>
+	<ProjectGuid>{B14BECCA-1DF1-29EA-B2C0-213F318B92CE}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -60,6 +60,7 @@
      <None Include="Assets\Sample Assets\Effects\Image Effects (Pro Only)\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
      <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\Sample Assets\Effects\Projectors\Shaders\Projector Additive.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Sample Assets\Vehicles\Aircraft\Aircraft Guidelines.txt" />
      <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\InterpolateAlongRays.shader" />
@@ -84,9 +85,10 @@
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
      <None Include="Assets\Sample Assets\Effects\Tessellation Shaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\Race_Track_Construction_Kit\Readme.txt" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/MEHMERTMERT/Documents/New Unity Project 4/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/MEHMERTMERT/Documents/GitHub/car-race-game/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -94,7 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{C0736E93-4430-C3D4-E5D8-9C86C99F710C}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{F591EC67-771B-2E0C-D500-50FF2E2AA604}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

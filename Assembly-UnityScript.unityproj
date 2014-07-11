@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{B36761A3-BC29-0FD5-9523-C53567FD6B73}</ProjectGuid>
+	<ProjectGuid>{4A9E8687-86DA-DDB3-268B-3B9F1AC341B4}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -60,6 +60,7 @@
      <None Include="Assets\Sample Assets\Effects\Image Effects (Pro Only)\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
      <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\Sample Assets\Effects\Projectors\Shaders\Projector Additive.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Sample Assets\Vehicles\Aircraft\Aircraft Guidelines.txt" />
      <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\InterpolateAlongRays.shader" />
@@ -84,6 +85,7 @@
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
      <None Include="Assets\Sample Assets\Effects\Tessellation Shaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\Race_Track_Construction_Kit\Readme.txt" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

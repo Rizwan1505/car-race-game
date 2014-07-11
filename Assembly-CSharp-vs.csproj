@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{C0736E93-4430-C3D4-E5D8-9C86C99F710C}</ProjectGuid>
+	<ProjectGuid>{F591EC67-771B-2E0C-D500-50FF2E2AA604}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Networking\NetworkManager.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" />
@@ -149,6 +150,7 @@
      <None Include="Assets\Sample Assets\Effects\Image Effects (Pro Only)\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
      <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\Sample Assets\Effects\Projectors\Shaders\Projector Additive.shader" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Sample Assets\Vehicles\Aircraft\Aircraft Guidelines.txt" />
      <None Include="Assets\Sample Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\InterpolateAlongRays.shader" />
@@ -173,6 +175,7 @@
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Light Shafts Guidelines.txt" />
      <None Include="Assets\Sample Assets\Effects\Particle Systems\Shaders\Priority Particle Add.shader" />
      <None Include="Assets\Sample Assets\Effects\Tessellation Shaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\Race_Track_Construction_Kit\Readme.txt" />
      <None Include="Assets\Sample Assets\Effects\Light Shafts\Shaders\ColorFilter.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
