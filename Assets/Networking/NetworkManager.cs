@@ -7,6 +7,7 @@ public class NetworkManager : MonoBehaviour {
 	void Start () {
 		// Make the game run even when in background
 		Application.runInBackground = true;
+		//Debug.Log (Application.runInBackground);
 	}
 	
 	// Update is called once per frame
