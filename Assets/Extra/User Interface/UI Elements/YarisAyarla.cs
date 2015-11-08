@@ -17,16 +17,16 @@ public class YarisAyarla : MonoBehaviour {
 
 	void OnMouseDown() {
 		GameObject.Find ("Main Camera - Main Menu").GetComponent<GUILayer>().enabled = false;
-		audio.clip = clicksound;
-		audio.Play ();
+		GetComponent<AudioSource>().clip = clicksound;
+		GetComponent<AudioSource>().Play ();
 		StartCoroutine (LoadLevel ());
-		Screen.showCursor = false;
+		Cursor.visible = false;
 		GameObject.Find ("Main Camera - Main Menu").transform.Rotate (0, 90, 0);
 		GameObject.Find ("Main Camera - Main Menu").transform.position = new Vector3(90, 0, 0);
 	}
 
 	IEnumerator LoadLevel() {
-		AsyncOperation async = Application.LoadLevelAsync(2);
+		AsyncOperation async = Application.LoadLevelAsync(3);
 		yield return async;
 		Debug.Log("Loading complete");
 	}

@@ -16,8 +16,8 @@ public class Cikis : MonoBehaviour {
 	}
 
 	void OnMouseDown() {
-		audio.clip = clicksound;
-		audio.Play ();
+		GetComponent<AudioSource>().clip = clicksound;
+		GetComponent<AudioSource>().Play ();
 		Application.Quit();
 	}
 }

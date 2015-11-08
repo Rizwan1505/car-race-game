@@ -6,7 +6,7 @@ public class intro : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Application.runInBackground = true;
-		Screen.showCursor = false;
+		Cursor.visible = false;
 	}
 	
 	// Update is called once per frame

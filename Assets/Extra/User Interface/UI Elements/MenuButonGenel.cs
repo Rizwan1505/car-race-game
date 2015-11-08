@@ -16,7 +16,7 @@ public class MenuButonGenel : MonoBehaviour {
 
 	void OnMouseEnter() {
 		gameObject.GetComponent<GUITexture>().color = Color.red;
-		audio.Play ();
+		GetComponent<AudioSource>().Play ();
 	}
 	
 	void OnMouseExit() {

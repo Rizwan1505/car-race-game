@@ -12,14 +12,14 @@ public class MainMenu : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Application.runInBackground = true;
-		Screen.showCursor = true;
+		Cursor.visible = true;
 		Cursor.SetCursor(cursorTexture, hotSpot, cursorMode);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (GameObject.Find ("Directional light - Main Menu").light.intensity < 0.5f) {
-			GameObject.Find ("Directional light - Main Menu").light.intensity = GameObject.Find ("Directional light - Main Menu").light.intensity + 0.05f;
+		if (GameObject.Find ("Directional light - Main Menu").GetComponent<Light>().intensity < 0.5f) {
+			GameObject.Find ("Directional light - Main Menu").GetComponent<Light>().intensity = GameObject.Find ("Directional light - Main Menu").GetComponent<Light>().intensity + 0.05f;
 		}
 	}
 	/*
@@ -47,7 +47,7 @@ public class MainMenu : MonoBehaviour {
 	*/
 
 	void Awake () {
-		GameObject.Find ("Directional light - Main Menu").light.intensity = 0;
+		GameObject.Find ("Directional light - Main Menu").GetComponent<Light>().intensity = 0;
 	}
 
 	IEnumerator LoadLevel1() {

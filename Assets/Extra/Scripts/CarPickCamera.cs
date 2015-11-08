@@ -5,7 +5,7 @@ public class CarPickCamera : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Screen.showCursor = true;
+		Cursor.visible = true;
 	}
 	
 	// Update is called once per frame
