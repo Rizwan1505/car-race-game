@@ -3,18 +3,26 @@ using System.Collections;
 
 public class MainMenu : MonoBehaviour {
 
+	public Texture2D cursorTexture;
+	private CursorMode cursorMode = CursorMode.ForceSoftware;
+	private Vector2 hotSpot = Vector2.zero;
+
+
+
 	// Use this for initialization
 	void Start () {
-	
+		Application.runInBackground = true;
+		Screen.showCursor = true;
+		Cursor.SetCursor(cursorTexture, hotSpot, cursorMode);
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		if (GameObject.Find ("Directional light - Main Menu").light.intensity < 0.5f) {
-			GameObject.Find ("Directional light - Main Menu").light.intensity = GameObject.Find ("Directional light - Main Menu").light.intensity + 0.001f;
+			GameObject.Find ("Directional light - Main Menu").light.intensity = GameObject.Find ("Directional light - Main Menu").light.intensity + 0.05f;
 		}
 	}
-
+	/*
 	public bool GUIEnabled = true;
 	void OnGUI () {
 		if (GUIEnabled) {
@@ -36,19 +44,20 @@ public class MainMenu : MonoBehaviour {
 				}
 		}
 	}
+	*/
 
 	void Awake () {
 		GameObject.Find ("Directional light - Main Menu").light.intensity = 0;
 	}
 
 	IEnumerator LoadLevel1() {
-		AsyncOperation async = Application.LoadLevelAsync(1);
+		AsyncOperation async = Application.LoadLevelAsync(2);
 		yield return async;
 		Debug.Log("Loading complete");
 	}
 
 	IEnumerator LoadLevel2() {
-		AsyncOperation async = Application.LoadLevelAsync(2);
+		AsyncOperation async = Application.LoadLevelAsync(3);
 		yield return async;
 		Debug.Log("Loading complete");
 	}

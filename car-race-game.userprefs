@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Extra\User Interface\MainMenu.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Extra\User Interface\UI Elements\YarisAyarla.cs">
     <Files>
-      <File FileName="Assets\Extra\User Interface\MainMenu.cs" Line="35" Column="7" />
+      <File FileName="Assets\Extra\User Interface\UI Elements\YarisAyarla.cs" Line="23" Column="28" />
+      <File FileName="Assets\Extra\User Interface\MainMenu.cs" Line="15" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
